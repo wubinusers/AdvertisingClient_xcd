@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ad_mode">
+        <item>On Hours</item>
+        <item>Half Hour</item>
+        <item>After 1 min</item>
+        <item>After 2 min</item>
+        <item>After 3 min</item>
+        <item>After 4 min</item>
+        <item>After 5 min</item>
+        <item>After 6 min</item>
+        <item>After 7 min</item>
+        <item>After 8 min</item>
+        <item>After 9 min</item>
+        <item>After 10 min</item>
+        <item>After 11 min</item>
+        <item>After 12 min</item>
+        <item>After 13 min</item>
+        <item>After 14 min</item>
+        <item>After 15 min</item>
+        <item>After 16 min</item>
+        <item>After 17 min</item>
+        <item>After 18 min</item>
+        <item>After 19 min</item>
+        <item>After 20 min</item>
+        <item>After 21 min</item>
+        <item>After 22 min</item>
+        <item>After 23 min</item>
+        <item>After 24 min</item>
+        <item>After 25 min</item>
+        <item>After 26 min</item>
+        <item>After 27 min</item>
+        <item>After 28 min</item>
+        <item>After 29 min</item>
+        <item>After 30 min</item>
+        <item>After 31 min</item>
+        <item>After 32 min</item>
+        <item>After 33 min</item>
+        <item>After 34 min</item>
+        <item>After 35 min</item>
+        <item>After 36 min</item>
+        <item>After 37 min</item>
+        <item>After 38 min</item>
+        <item>After 39 min</item>
+        <item>After 40 min</item>
+        <item>After 41 min</item>
+        <item>After 42 min</item>
+        <item>After 43 min</item>
+        <item>After 44 min</item>
+        <item>After 45 min</item>
+        <item>After 46 min</item>
+        <item>After 47 min</item>
+        <item>After 48 min</item>
+        <item>After 49 min</item>
+        <item>After 50 min</item>
+        <item>After 51 min</item>
+        <item>After 52 min</item>
+        <item>After 53 min</item>
+        <item>After 54 min</item>
+        <item>After 55 min</item>
+        <item>After 56 min</item>
+        <item>After 57 min</item>
+        <item>After 58 min</item>
+        <item>After 59 min</item>
+        <item>After 60 min</item>
+    </string-array>
+    <string-array name="ad_set_left_array">
+        <item>Switch</item>
+        <item>Number</item>
+        <item>Type</item>
+    </string-array>
+    <string-array name="ad_switch">
+        <item>Off</item>
+        <item>On</item>
+    </string-array>
+    <string-array name="audio_out_mode">
+        <item>Codec</item>
+        <item>HDMI</item>
+        <item>Codec and HDMI</item>
+    </string-array>
+    <string-array name="auto_rotation_screen">
+        <item>Off</item>
+        <item>On</item>
+    </string-array>
+    <string-array name="background_music">
+        <item>Off</item>
+        <item>On</item>
+    </string-array>
+    <string-array name="basic_set_array">
+        <item>Language</item>
+        <item>Play Device</item>
+        <item>Copy Mode</item>
+        <item>Play Mode</item>
+        <item>Time Setting</item>
+        <item>Fixed Timing</item>
+        <item>Video Aspect</item>
+        <item>Image Aspect</item>
+        <item>Photo Effects</item>
+        <item>Photo Slider Time</item>
+        <item>Reset Menu</item>
+    </string-array>
+    <string-array name="boot">
+        <item>On</item>
+        <item>Off</item>
+    </string-array>
+    <string-array name="caption_background_color">
+        <item>Transparent</item>
+        <item>Yellow</item>
+        <item>White</item>
+        <item>Black</item>
+        <item>Red</item>
+        <item>Blue</item>
+    </string-array>
+    <string-array name="caption_color">
+        <item>Yellow</item>
+        <item>White</item>
+        <item>Black</item>
+        <item>Red</item>
+        <item>Blue</item>
+    </string-array>
+    <string-array name="caption_location">
+        <item>Bottom</item>
+        <item>Top</item>
+    </string-array>
+    <string-array name="caption_set_array">
+        <item>Switch</item>
+        <item>Size</item>
+        <item>Color</item>
+        <item>Background Color</item>
+        <item>Speed</item>
+	<item>Location</item>
+    </string-array>
+    <string-array name="caption_size">
+        <item>Small</item>
+        <item>Normal</item>
+        <item>Big</item>
+    </string-array>
+    <string-array name="caption_switch">
+        <item>On</item>
+        <item>Off</item>
+    </string-array>
+    <string-array name="copy_mode">
+        <item>Format</item>
+        <item>Add</item>
+    </string-array>
+    <string-array name="function_set_array">
+        <item>Rotate Screen</item>
+        <item>Split Screen</item>
+        <item>Ad Play</item>
+        <item>Background Music</item>
+        <item>Show Logo</item>
+        <item>Lock</item>
+        <item>Same Pace</item>
+        <item>Audio Out Mode</item>
+        <item>Play Encode File</item>
+        <item>Auto Rotation Screen</item>
+	<item>Sensor Switch</item>
+    </string-array>
+    <string-array name="image_mode">
+        <item>Full Screen</item>
+        <item>Fit</item>
+    </string-array>
+    <string-array name="image_transition">
+        <item>Off</item>
+        <item>Random</item>
+        <item>Accordion Transformer</item>
+        <item>Background To Foreground</item>
+        <item>Cube In Transformer</item>
+        <item>Cube Out Transformer</item>
+        <item>Depth Page Transformer</item>
+        <item>Flip Horizontal</item>
+        <item>Flip Vertical</item>
+        <item>Foreground To Background</item>
+        <item>RotateDown Transformer</item>
+        <item>RotateUp Transformer</item>
+        <item>Stack Transformer</item>
+        <item>Tablet Transformer</item>
+        <item>Zoom In Transformer</item>
+        <item>Zoom Out Slide Transformer</item>
+        <item>Zoom Out Transformer</item>
+    </string-array>
+    <string-array name="language">
+        <item>中文</item>
+        <item>English</item>
+    </string-array>
+    <string-array name="logo_setting">
+        <item>Close</item>
+        <item>Top-Left Corner</item>
+        <item>Top-Right Corner</item>
+        <item>Bottom-Left Corner</item>
+        <item>Bottom-Left Corner</item>
+    </string-array>
+    <string-array name="other_set_array">
+        <item>Boot</item>
+        <item>File Manager</item>
+        <item>Brightness</item>
+        <item>Contrast</item>
+        <item>Saturation</item>
+	<item>Change Volume</item>
+        <item>Set ID</item>
+	<item>Power Delay</item>
+        <item>Version</item>
+        <item>Reset System</item>
+    </string-array>
+    <string-array name="play_encode">
+        <item>Off</item>
+        <item>On</item>
+    </string-array>
+    <string-array name="power_delay_time_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+        <item>150</item>
+        <item>180</item>
+        <item>300</item>
+    </string-array>
+    <string-array name="priority_mode">
+        <item>Nand</item>
+        <item>SD</item>
+        <item>USB</item>
+    </string-array>
+    <string-array name="repeat_mode">
+        <item>List Cycle</item>
+        <item>REPEAT</item>
+    </string-array>
+    <string-array name="rolling_speed">
+        <item>Slow</item>
+        <item>Normal</item>
+        <item>Fast</item>
+    </string-array>
+    <string-array name="screen_rotation">
+        <item>0 degree</item>
+        <item>90 degrees</item>
+        <item>180 degrees</item>
+        <item>270 degrees</item>
+    </string-array>
+    <string-array name="sensor_switch">
+        <item>Off</item>
+        <item>Mute</item>
+        <item>Pause</item>
+        <item>Screen Off</item>
+    </string-array>
+    <string-array name="serial_port">
+        <item>Off</item>
+        <item>Main</item>
+        <item>Follow</item>
+    </string-array>
+    <string-array name="time_color">
+        <item>Yellow</item>
+        <item>White</item>
+        <item>Black</item>
+        <item>Red</item>
+        <item>Blue</item>
+    </string-array>
+    <string-array name="time_location">
+        <item>Right Conor</item>
+        <item>Left Conor</item>
+    </string-array>
+    <string-array name="time_set_left_array">
+        <item>Switch</item>
+        <item>Adjust</item>
+        <item>Style</item>
+        <item>Location</item>
+        <item>Size</item>
+        <item>Color</item>
+    </string-array>
+    <string-array name="time_size">
+        <item>Small</item>
+        <item>Normal</item>
+        <item>Big</item>
+    </string-array>
+    <string-array name="time_style">
+        <item>Y-M-D W  H:M:S</item>
+        <item>Y-M-D H:M:S</item>
+        <item>H:M:S</item>
+        <item>H:M</item>
+    </string-array>
+    <string-array name="time_switch">
+        <item>On</item>
+        <item>Off</item>
+    </string-array>
+    <string-array name="video_mode">
+        <item>Full Screen</item>
+        <item>Fit</item>
+    </string-array>
+    <string-array name="window_mode">
+        <item>Off</item>
+        <item>Free</item>
+        <item>Model 1</item>
+        <item>Model 2</item>
+        <item>Model 3</item>
+        <item>Model 4</item>
+        <item>Model 5</item>
+        <item>Model 6</item>
+        <item>Model 7</item>
+    </string-array>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPureBlack">#000000</color>
+    <color name="colorPureWhite">#ffffff</color>
+    <color name="leftFragmentBackColor">#FF614989</color>
+    <color name="rightFragmentBackColor">#FF393CE4</color>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="setup_list_item_textsize">36sp</dimen>
+    <dimen name="setup_top_text_size">35dp</dimen>
+    <string name="Copying">Copying</string>
+    <string name="ad_image">play ad image:</string>
+    <string name="ad_play_finish">"AD Play Finished!"</string>
+    <string name="ad_play_start">"AD Play Start!"</string>
+    <string name="ad_set">Setting</string>
+    <string name="ad_video">play ad video:</string>
+    <string name="adjust">Adjust</string>
+    <string name="app_name">XPlayer</string>
+    <string name="auto_on_off">Setting</string>
+    <string name="back_key_again">"Are you sure to exit？"</string>
+    <string name="brightness">50</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm_reset_menu">Are you sure to RESET the menu？</string>
+    <string name="confirm_reset_menu_no">No</string>
+    <string name="confirm_reset_menu_yes">Yes</string>
+    <string name="confirm_reset_system">Are you sure to reset the system, it will wipe all your date. Please unmount the SD card or USB storage if necessary!</string>
+    <string name="contrast">50</string>
+    <string name="copies_remaining">Remain </string>
+    <string name="copy_exit">Are you sure exit?</string>
+    <string name="copy_sd">SD card inserted! Do not interrupt!</string>
+    <string name="copy_success">Copy finished !</string>
+    <string name="copy_usb">USBHost inserted!  Do not interrupt!</string>
+    <string name="day">D</string>
+    <string name="default_time_pattern">HH : mm : ss</string>
+    <string name="details_all_text">All</string>
+    <string name="details_image_text">picture</string>
+    <string name="details_music_text">Music</string>
+    <string name="details_video_text">Video</string>
+    <string name="determine">Determine</string>
+    <string name="donwload_notstart">"Download preparation..."</string>
+    <string name="download_count">"Already Download Count:"</string>
+    <string name="download_fail">"download failed！"</string>
+    <string name="download_file_exist">"This file has been downloaded."</string>
+    <string name="download_filelength">"File Size:"</string>
+    <string name="download_success">"Download success！"</string>
+    <string name="download_suspend">"Download the suspension..."</string>
+    <string name="downloaded_success"> file downloaded.</string>
+    <string name="downloading_exit">Downloading file. Are you sure exit?</string>
+    <string name="external_storage">No media found In the </string>
+    <string name="file"> file !</string>
+    <string name="file_manager">Manage</string>
+    <string name="file_synchronized_copy"> files, will be synchronized copy!</string>
+    <string name="file_update_success">Copy completed! Updating media databases, please wait!</string>
+    <string name="firmware_version">FIRMWARE:</string>
+    <string name="found_file">Found </string>
+    <string name="found_file_update"> Files，Update Now ？ "</string>
+    <string name="ftp_address">Remote update address</string>
+    <string name="ftp_address_comfire">update</string>
+    <string name="ftp_address_tv_hint">Please input the ftp address</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="heng">-</string>
+    <string name="hour">H</string>
+    <string name="hour_time">hour time</string>
+    <string name="id">000000</string>
+    <string name="image_play_time">5 Sec</string>
+    <string name="image_time_sec">Sec</string>
+    <string name="input_confirm">OK</string>
+    <string name="input_id">Input ID</string>
+    <string name="input_old_password">Input previous password:</string>
+    <string name="input_password">Input password</string>
+    <string name="input_password_again">Input again</string>
+    <string name="key_fast_back">FastBack</string>
+    <string name="key_fast_word">FastForword</string>
+    <string name="key_next">Next</string>
+    <string name="key_pause">Pause</string>
+    <string name="key_play">Play</string>
+    <string name="key_pre">Previous</string>
+    <string name="land_window">Land</string>
+    <string name="mao">:</string>
+    <string name="media_date">Date</string>
+    <string name="media_music_name">Music</string>
+    <string name="media_music_singer">Artist</string>
+    <string name="media_title">Title</string>
+    <string name="media_unknown">Unknown</string>
+    <string name="menu_0">Basic</string>
+    <string name="menu_1">Caption</string>
+    <string name="menu_2">Function</string>
+    <string name="menu_3">Others</string>
+    <string name="menu_sd_text">SD</string>
+    <string name="menu_setting_text">Setting</string>
+    <string name="menu_storage_text">Nand</string>
+    <string name="menu_usb_text">USB</string>
+    <string name="minute">M</string>
+    <string name="month">M</string>
+    <string name="move_up_down">Up\Down</string>
+    <string name="next_step">Next</string>
+    <string name="no_ad_media_file">Not Found Any AD Media File!</string>
+    <string name="no_devices">Do not unplug the external equipment!</string>
+    <string name="no_download_file">No files download!</string>
+    <string name="no_folder"> ! Will exit copy!</string>
+    <string name="no_media_file">Not Found Any Media File!</string>
+    <string name="no_playlist_file">No media file for play in current time !</string>
+    <string name="no_setting_file">Not Found Setting.xml File!</string>
+    <string name="play_image">play image:</string>
+    <string name="play_music">play music:</string>
+    <string name="play_video">play video:</string>
+    <string name="port_window">Port</string>
+    <string name="power_delay_sec">Sec</string>
+    <string name="power_off_time">Off Time</string>
+    <string name="power_on_time">On Time</string>
+    <string name="remaining">Remain </string>
+    <string name="remote_control">Setting</string>
+    <string name="remote_key_down">↓</string>
+    <string name="remote_key_left">←</string>
+    <string name="remote_key_right">→</string>
+    <string name="remote_key_up">↑</string>
+    <string name="reset_menu">Reset</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="reset_system">Reset</string>
+    <string name="restore_default_success">Restore Default Success !</string>
+    <string name="restore_defaults">RESTORE DEFAULTS</string>
+    <string name="restore_defaults_dialog_msg">Are you sure you want to restore default?</string>
+    <string name="restore_defaults_dialog_neg">No</string>
+    <string name="restore_defaults_dialog_pos">Yes</string>
+    <string name="restore_defaults_value"> Do you want to restore defaults?</string>
+    <string name="saturation">50</string>
+    <string name="save">Save</string>
+    <string name="save_datetime">Save DateTime</string>
+    <string name="save_time">Done</string>
+    <string name="second">S</string>
+    <string name="set_finish">Finish</string>
+    <string name="set_password">Set Password</string>
+    <string name="set_system_time">Adjust</string>
+    <string name="set_time">No.</string>
+    <string name="setting_customization_text">Subtitles Setup</string>
+    <string name="setting_date_text">Date Setup</string>
+    <string name="setting_image_text">Subtitles Setup</string>
+    <string name="setting_subtitles_text">Subtitles Setup</string>
+    <string name="setting_universal_text">Basic Setup</string>
+    <string name="soft_version">SOFTWARE:</string>
+    <string name="start_play_with_first_one">"Start Play Ad With First One!"</string>
+    <string name="storage_sum_size">Storage Size : %1$s</string>
+    <string name="storage_user_size">Storage Use : %1$s</string>
+    <string name="switch_menu">Switch Menu</string>
+    <string name="switch_next_group">Switching Next Group...</string>
+    <string name="switch_next_playlist">"Switch Next Playlist..."</string>
+    <string name="text_basic_setup">"Basic Setup"</string>
+    <string name="text_custom_setup">"Custom Functions"</string>
+    <string name="text_others_setup">"Others Setup"</string>
+    <string name="time_inter">time interval</string>
+    <string name="time_set">Setting</string>
+    <string name="title_activity_remote_control_main">RemoteControlMainActivity</string>
+    <string name="title_activity_remote_control_reset">RemoteControlResetActivity</string>
+    <string name="title_activity_remote_control_setting">RemoteControlSettingActivity</string>
+    <string name="title_activity_setup">SetupActivity</string>
+    <string name="toast_aready_setted">You have set the password.</string>
+    <string name="toast_delete_success">Cancel success！</string>
+    <string name="toast_only_six">The length should be SIX！</string>
+    <string name="toast_select_every">You have chosen EVERY DAY mode, please cancle your all EVERY DAY setting.</string>
+    <string name="toast_select_week">You have chosen WEEKLY mode, please cancle your all weekly setting.</string>
+    <string name="toast_set_success">Set password success！</string>
+    <string name="toast_try_again">WRONG, TRY AGAIN!</string>
+    <string name="toast_unlock_success">Unlock success！</string>
+    <string name="total">A total of </string>
+    <string name="txt_id">ID Setup：</string>
+    <string name="unknown">Unknown</string>
+    <string name="unlock_success">Unlock success, it will lock automatically after ONE minute.</string>
+    <string name="update_cancel">Cancel</string>
+    <string name="update_file">Update File</string>
+    <string name="update_message">download completed, updating the media databases!</string>
+    <string name="update_now">Update Now</string>
+    <string name="version">XPlayerV3.0</string>
+    <string name="wrong_password">WRONG, TRY AGAIN!</string>
+    <string name="year">Y</string>
+    <style name="AutoTextViewStyle">
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="CustTextView">
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="SetupCustTextView">
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:drawablePadding">3dip</item>
+        <item name="android:paddingTop">15dip</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+    <style name="TextViewName">
+        <item name="android:textSize">30.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+    </style>
+    <style name="TextViewNameMessage">
+        <item name="android:textSize">60.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+    </style>
+    <style name="TextViewStyle">
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+    </style>
+</resources>

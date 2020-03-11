@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+			    xmlns:tools="http://schemas.android.com/tools"
+			    android:layout_width="match_parent"
+			    android:layout_height="match_parent"
+			    android:gravity="center"
+			    android:background="@drawable/music_main_bg"
+			    android:id="@+id/music_main">
+
+    	<TextView android:layout_width="match_parent"
+    	    	  android:layout_height="100dp"
+    	    	  android:textColor="#ffffff"
+		          android:textSize="48sp"
+		          android:textStyle="bold"
+		          android:layout_centerHorizontal="true"
+		          android:gravity="center|bottom" 
+    	    	  android:id="@+id/music_name"/>
+    	
+    	<TextView android:layout_width="match_parent"
+    	    	  android:layout_height="100dp"
+    	    	  android:textColor="#ffffff"
+		          android:textSize="48sp"
+		          android:textStyle="bold"
+		          android:layout_below="@+id/music_name"
+		          android:layout_centerHorizontal="true"
+		          android:gravity="center" 
+    	    	  android:id="@+id/music_singer_name"/>
+    	
+    	<ImageView android:layout_width="238dp"
+    	    	   android:layout_height="238dp"
+    	    	   android:textColor="#ffffff"
+		           android:textSize="48sp"
+		           android:textStyle="bold"
+		           android:layout_below="@+id/music_singer_name"
+		           android:layout_marginTop="15dp"
+		           android:src="@drawable/music_icon"
+		           android:contentDescription="@null"
+		           android:layout_centerHorizontal="true"
+		           android:gravity="center" 
+    	    	   android:id="@+id/music_image"/>
+    	
+    	<TextView android:layout_width="match_parent"
+    	    	  android:layout_height="100dp"
+    	    	  android:textColor="#ffffff"
+    	    	  android:layout_marginTop="15dp"
+		          android:textSize="48sp"
+		          android:textStyle="bold"
+		          android:layout_below="@+id/music_image"
+		          android:layout_centerHorizontal="true"
+		          android:gravity="center" 
+    	    	  android:id="@+id/music_time"/>
+    	
+</RelativeLayout>

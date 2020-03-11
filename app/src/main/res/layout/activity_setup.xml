@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="1080px"
+    android:layout_height="780px"
+    android:layout_gravity="center"
+    android:background="@drawable/main_bg"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="120px">
+
+        <TextView
+            android:id="@+id/top_menu_text"
+            android:layout_width="300px"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="50px"
+            android:gravity="center"
+            android:textColor="#FFFF00"
+            android:textSize="58px" />
+
+        <ImageView
+            android:id="@+id/menu0_image"
+            android:layout_width="150px"
+            android:layout_height="90px"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="100px"
+            android:src="@drawable/menu0" />
+
+        <ImageView
+            android:id="@+id/menu1_image"
+            android:layout_width="150px"
+            android:layout_height="90px"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/menu1" />
+
+        <ImageView
+            android:id="@+id/menu2_image"
+            android:layout_width="150px"
+            android:layout_height="90px"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/menu2" />
+
+        <ImageView
+            android:id="@+id/menu3_image"
+            android:layout_width="150px"
+            android:layout_height="90px"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/menu3" />
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/menu_list"
+        android:layout_width="1000px"
+        android:layout_height="680px"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10px"
+        android:divider="#00000000"
+        android:dividerHeight="0px"
+        android:listSelector="@drawable/list_background"
+        android:scrollbars="none"></ListView>
+
+
+</LinearLayout>

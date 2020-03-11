@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firmware_version">FIRMWARE:</string>
+    <string name="soft_version">SOFTWARE:</string>
+    <string name="version">XPlayerV3.0</string>
+    <string name="land_window">Land</string>
+    <string name="port_window">Port</string>
+    <string name="menu_0">Basic</string>
+    <string name="menu_1">Caption</string>
+    <string name="menu_2">Function</string>
+    <string name="menu_3">Others</string>
+    <string name="adjust">Adjust</string>
+    <string name="move_up_down">Up\Down</string>
+    <string name="switch_menu">Switch Menu</string>
+    <string name="time_set">Setting</string>
+    <string name="auto_on_off">Setting</string>
+    <string name="image_play_time">5 Sec</string>
+    <string name="reset_menu">Reset</string>
+    <string name="ad_set">Setting</string>
+    <string name="remote_control">Setting</string>
+    <string name="file_manager">Manage</string>
+    <string name="brightness">50</string>
+    <string name="contrast">50</string>
+    <string name="saturation">50</string>
+    <string name="id">000000</string>
+    <string name="reset_system">Reset</string>
+    <string name="confirm_reset_menu">Are you sure to RESET the menu？</string>
+    <string name="confirm_reset_menu_yes">Yes</string>
+    <string name="confirm_reset_menu_no">No</string>
+    <string name="image_time_sec">Sec</string>
+    <string name="app_name">XPlayer</string>
+    <string name="menu_storage_text">Nand</string>
+    <string name="menu_sd_text">SD</string>
+    <string name="menu_usb_text">USB</string>
+    <string name="menu_setting_text">Setting</string>
+    <string name="unknown">Unknown</string>
+    <string name="storage_sum_size">Storage Size : %1$s</string>
+    <string name="storage_user_size">Storage Use : %1$s</string>
+    <string name="details_all_text">All</string>
+    <string name="details_video_text">Video</string>
+    <string name="details_image_text">picture</string>
+    <string name="details_music_text">Music</string>
+    <string name="default_time_pattern">HH : mm : ss</string>
+    <string name="year">Y</string>
+    <string name="month">M</string>
+    <string name="day">D</string>
+    <string name="hour">H</string>
+    <string name="save_datetime">Save DateTime</string>
+    <string name="setting_universal_text">Basic Setup</string>
+    <string name="setting_date_text">Date Setup</string>
+    <string name="setting_subtitles_text">Subtitles Setup</string>
+    <string name="setting_customization_text">Subtitles Setup</string>
+    <string name="setting_image_text">Subtitles Setup</string>
+    <string name="no_media_file">Not Found Any Media File!</string>
+    <string name="no_ad_media_file">Not Found Any AD Media File!</string>
+    <string name="ad_play_start">"AD Play Start!"</string>
+    <string name="ad_play_finish">"AD Play Finished!"</string>
+    <string name="start_play_with_first_one">"Start Play Ad With First One!"</string>
+    <string name="no_setting_file">Not Found Setting.xml File!</string>
+    <string name="no_playlist_file">No media file for play in current time !</string>
+    <string name="switch_next_group">Switching Next Group...</string>
+    <string name="switch_next_playlist">"Switch Next Playlist..."</string>
+    <string name="back_key_again">"Are you sure to exit？"</string>
+    <string name="text_basic_setup">"Basic Setup"</string>
+    <string name="text_custom_setup">"Custom Functions"</string>
+    <string name="text_others_setup">"Others Setup"</string>
+    <string name="media_title">Title</string>
+    <string name="media_date">Date</string>
+    <string name="media_music_name">Music</string>
+    <string name="media_music_singer">Artist</string>
+    <string name="media_unknown">Unknown</string>
+    <string name="key_pause">Pause</string>
+    <string name="key_play">Play</string>
+    <string name="key_next">Next</string>
+    <string name="key_pre">Previous</string>
+    <string name="key_fast_word">FastForword</string>
+    <string name="key_fast_back">FastBack</string>
+    <string name="save">Save</string>
+    <string name="txt_id">ID Setup：</string>
+    <string name="second">S</string>
+    <string name="minute">M</string>
+    <string name="time_inter">time interval</string>
+    <string name="hour_time">hour time</string>
+    <string name="set_time">No.</string>
+      
+    <string name="save_time">Done</string>
+    <string name="set_system_time">Adjust</string>
+
+    <string name="ftp_address">Remote update address</string>
+    
+    <string name="restore_defaults">RESTORE DEFAULTS</string>
+    <string name="restore_defaults_dialog_msg">Are you sure you want to restore default?</string>
+    <string name="restore_defaults_dialog_pos">Yes</string>
+    <string name="restore_defaults_dialog_neg">No</string>
+    <string name="restore_defaults_value"> Do you want to restore defaults?</string>
+    <string name="ftp_address_tv_hint">Please input the ftp address</string>
+    <string name="restore_default_success">Restore Default Success !</string>
+    <string name="ftp_address_comfire">update</string>
+    <string name="download_count">"Already Download Count:"</string>
+    <string name="download_filelength">"File Size:"</string>
+    <string name="donwload_notstart">"Download preparation..."</string>
+    <string name="download_suspend">"Download the suspension..."</string>
+    <string name="download_success">"Download success！"</string>
+    <string name="download_fail">"download failed！"</string>
+    <string name="download_file_exist">"This file has been downloaded."</string>
+    <string name="update_file">Update File</string>
+    <string name="found_file">Found </string>
+    <string name="found_file_update"> Files，Update Now ？ "</string>
+    <string name="update_now">Update Now</string>
+    <string name="update_cancel">Cancel</string>
+    <string name="determine">Determine</string>
+    <string name="cancel">Cancel</string>
+    <string name="update_message">download completed, updating the media databases!</string>
+    <string name="file"> file !</string>
+    <string name="remaining">Remain </string>
+    <string name="downloaded_success"> file downloaded.</string>
+    <string name="downloading_exit">Downloading file. Are you sure exit?</string>
+    <string name="no_download_file">No files download!</string>
+    <string name="copy_success">Copy finished !</string>
+    <string name="copies_remaining">Remain </string>
+    <string name="copy_sd">SD card inserted! Do not interrupt!</string>
+    <string name="copy_usb">USBHost inserted!  Do not interrupt!</string>
+    <string name="copy_exit">Are you sure exit?</string>
+    <string name="file_update_success">Copy completed! Updating media databases, please wait!</string>
+    <string name="total">A total of </string>
+    <string name="file_synchronized_copy"> files, will be synchronized copy!</string>
+    <string name="Copying">Copying</string>
+    <string name="external_storage">No media found In the </string>
+    <string name="no_folder"> ! Will exit copy!</string>
+    <string name="no_devices">Do not unplug the external equipment!</string>
+
+    <string name="title_activity_remote_control_main">RemoteControlMainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_remote_control_setting">RemoteControlSettingActivity</string>
+    <string name="title_activity_remote_control_reset">RemoteControlResetActivity</string>
+    <string name="title_activity_setup">SetupActivity</string>
+       
+    <string name="input_id">Input ID</string>
+    
+    <string name="remote_key_up">↑</string>
+    <string name="remote_key_down">↓</string>
+    <string name="remote_key_left">←</string>
+    <string name="remote_key_right">→</string>
+    <string name="input_password">Input password</string>
+    <string name="input_confirm">OK</string>
+    <string name="toast_try_again">WRONG, TRY AGAIN!</string>
+    <string name="toast_only_six">The length should be SIX！</string>
+    <string name="toast_delete_success">Cancel success！</string>
+    <string name="input_password_again">Input again</string>
+    <string name="toast_aready_setted">You have set the password.</string>
+    <string name="set_finish">Finish</string>
+    <string name="toast_set_success">Set password success！</string>
+    <string name="toast_unlock_success">Unlock success！</string>
+    <string name="next_step">Next</string>
+    <string name="input_old_password">Input previous password:</string>
+    <string name="unlock_success">Unlock success, it will lock automatically after ONE minute.</string>
+    <string name="wrong_password">WRONG, TRY AGAIN!</string>
+			
+    <string name="reset_password">Reset Password</string>
+	
+    <string name="set_password">Set Password</string>
+	
+    <string name="heng">-</string>
+    <string name="mao">:</string>
+		
+    <string name="power_delay_sec">Sec</string>
+       
+    <string name="toast_select_week">You have chosen WEEKLY mode, please cancle your all weekly setting.</string>
+    <string name="toast_select_every">You have chosen EVERY DAY mode, please cancle your all EVERY DAY setting.</string>
+ 
+    <string name="power_on_time">On Time</string>
+    <string name="power_off_time">Off Time</string>
+    
+    <string name="ad_video">play ad video:</string>
+    <string name="play_video">play video:</string>
+    <string name="ad_image">play ad image:</string>
+    <string name="play_image">play image:</string>
+    <string name="play_music">play music:</string>
+      
+    <string name="confirm_reset_system">Are you sure to reset the system, it will wipe all your date. Please unmount the SD card or USB storage if necessary!</string>
+     
+</resources>

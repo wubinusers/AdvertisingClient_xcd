@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="750px"
+    android:layout_height="780px"
+    android:orientation="horizontal">
+
+    <TextView
+        
+        android:ellipsize="marquee" 
+        android:focusable="true"   
+        android:singleLine="true"
+        android:marqueeRepeatLimit="marquee_forever"   
+        android:focusableInTouchMode="true"
+        android:scrollHorizontally="true" 
+        android:layout_marginLeft="120px"
+        android:id="@+id/menu_text"
+        android:layout_width="400px"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:textSize="44px" />
+
+    <ImageView
+        android:layout_gravity="center_vertical"
+        android:id="@+id/left_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10px"
+        android:src="@drawable/zuo" />
+
+    <TextView
+        android:ellipsize="marquee" 
+        android:focusable="true"   
+        android:marqueeRepeatLimit="marquee_forever"   
+        android:focusableInTouchMode="true"
+        android:scrollHorizontally="true"
+        android:singleLine="true"
+        android:id="@+id/item_text"
+        android:layout_width="200px"
+        android:gravity="center_vertical|center_horizontal"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40px"
+        android:textColor="#ffffff"
+        android:textSize="44px" />
+
+    <ImageView
+        android:layout_gravity="center_vertical"
+        android:id="@+id/right_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="60px"
+        android:src="@drawable/you" />
+   
+
+</LinearLayout>

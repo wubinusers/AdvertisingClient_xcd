@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e1851c"
+    android:orientation="horizontal">
+
+    <EditText
+        android:id="@+id/year_text"
+        android:maxLength="4"
+        android:inputType="number"
+        android:layout_gravity="center_horizontal"
+        android:maxLines="1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/year"
+        android:textSize="30sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/heng"
+        android:textSize="30sp" />
+
+    <EditText
+        android:id="@+id/month_text"
+        android:inputType="number"
+        android:maxLength="2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/month"
+        android:textSize="30sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       android:text="@string/heng"
+        android:textSize="30sp" />
+
+    <EditText
+        android:id="@+id/day_text"
+        android:inputType="number"
+        android:maxLength="2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/day"
+        android:textSize="30sp" />
+
+    <EditText
+        android:id="@+id/hour_text"
+        android:inputType="number"
+        android:maxLength="2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:hint="@string/hour"
+        android:textSize="30sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/mao"
+        android:textSize="30sp" />
+
+    <EditText
+        android:id="@+id/min_text"
+        android:inputType="number"
+        android:maxLength="2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/minute"
+        android:textSize="30sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/mao"
+        android:textSize="30sp" />
+
+    <EditText
+        android:id="@+id/sec_text"
+        android:inputType="number"
+        android:layout_width="wrap_content"
+        android:maxLength="2"
+        android:layout_height="wrap_content"
+        android:hint="@string/second"
+        android:textSize="28sp" />
+
+</LinearLayout>

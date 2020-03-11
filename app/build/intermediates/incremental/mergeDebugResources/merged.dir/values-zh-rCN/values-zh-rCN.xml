@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ad_mode">
+        <item>整点</item>
+        <item>半点</item>
+        <item>间隔1分钟</item>
+        <item>间隔2分钟</item>
+        <item>间隔3分钟</item>
+        <item>间隔4分钟</item>
+        <item>间隔5分钟</item>
+        <item>间隔6分钟</item>
+        <item>间隔7分钟</item>
+        <item>间隔8分钟</item>
+        <item>间隔9分钟</item>
+        <item>间隔10分钟</item>
+        <item>间隔11分钟</item>
+        <item>间隔12分钟</item>
+        <item>间隔13分钟</item>
+        <item>间隔14分钟</item>
+        <item>间隔15分钟</item>
+        <item>间隔16分钟</item>
+        <item>间隔17分钟</item>
+        <item>间隔18分钟</item>
+        <item>间隔19分钟</item>
+        <item>间隔20分钟</item>
+        <item>间隔21分钟</item>
+        <item>间隔22分钟</item>
+        <item>间隔23分钟</item>
+        <item>间隔24分钟</item>
+        <item>间隔25分钟</item>
+        <item>间隔26分钟</item>
+        <item>间隔27分钟</item>
+        <item>间隔28分钟</item>
+        <item>间隔29分钟</item>
+        <item>间隔30分钟</item>
+        <item>间隔31分钟</item>
+        <item>间隔32分钟</item>
+        <item>间隔33分钟</item>
+        <item>间隔34分钟</item>
+        <item>间隔35分钟</item>
+        <item>间隔36分钟</item>
+        <item>间隔37分钟</item>
+        <item>间隔38分钟</item>
+        <item>间隔39分钟</item>
+        <item>间隔40分钟</item>
+        <item>间隔41分钟</item>
+        <item>间隔42分钟</item>
+        <item>间隔43分钟</item>
+        <item>间隔44分钟</item>
+        <item>间隔45分钟</item>
+        <item>间隔46分钟</item>
+        <item>间隔47分钟</item>
+        <item>间隔48分钟</item>
+        <item>间隔49分钟</item>
+        <item>间隔50分钟</item>
+        <item>间隔51分钟</item>
+        <item>间隔52分钟</item>
+        <item>间隔53分钟</item>
+        <item>间隔54分钟</item>
+        <item>间隔55分钟</item>
+        <item>间隔56分钟</item>
+        <item>间隔57分钟</item>
+        <item>间隔58分钟</item>
+        <item>间隔59分钟</item>
+        <item>间隔60分钟</item>
+    </string-array>
+    <string-array name="ad_set_left_array">
+        <item>开关</item>
+        <item>插播数量</item>
+        <item>插播类型</item>
+    </string-array>
+    <string-array name="ad_switch">
+        <item>关</item>
+        <item>开</item>
+    </string-array>
+    <string-array name="audio_out_mode">
+        <item>Codec</item>
+        <item>HDMI</item>
+        <item>Codec和HDMI</item>
+    </string-array>
+    <string-array name="auto_rotation_screen">
+        <item>关闭</item>
+        <item>打开</item>
+    </string-array>
+    <string-array name="background_music">
+        <item>关闭</item>
+        <item>打开</item>
+    </string-array>
+    <string-array name="basic_set_array">
+        <item>语言设置</item>
+        <item>当前设备</item>
+        <item>拷贝模式</item>
+        <item>播放模式</item>
+        <item>时间设置</item>
+        <item>定时开关</item>
+        <item>视频比例</item>
+        <item>图片比例</item>
+        <item>图片转场</item>
+        <item>图片时间</item>
+        <item>恢复出厂</item>
+    </string-array>
+    <string-array name="boot">
+        <item>启动</item>
+        <item>关闭</item>
+    </string-array>
+    <string-array name="caption_background_color">
+        <item>透明</item>
+        <item>黄色</item>
+        <item>白色</item>
+        <item>黑色</item>
+        <item>红色</item>
+        <item>蓝色</item>
+    </string-array>
+    <string-array name="caption_color">
+        <item>黄色</item>
+        <item>白色</item>
+        <item>黑色</item>
+        <item>红色</item>
+        <item>蓝色</item>
+    </string-array>
+    <string-array name="caption_location">
+        <item>底部</item>
+        <item>顶部</item>
+    </string-array>
+    <string-array name="caption_set_array">
+        <item>字幕开关</item>
+        <item>字幕大小</item>
+        <item>字幕颜色</item>
+        <item>背景颜色</item>
+        <item>滚动速度</item>
+	<item>显示位置</item>
+    </string-array>
+    <string-array name="caption_size">
+        <item>小</item>
+        <item>中</item>
+        <item>大</item>
+    </string-array>
+    <string-array name="caption_switch">
+        <item>打开</item>
+        <item>关闭</item>
+    </string-array>
+    <string-array name="copy_mode">
+        <item>全删全拷</item>
+        <item>追加拷贝</item>
+    </string-array>
+    <string-array name="function_set_array">
+        <item>屏幕旋转</item>
+        <item>分屏模式</item>
+        <item>广告插播</item>
+        <item>背景音乐</item>
+        <item>台标显示</item>
+        <item>遥控加密</item>
+        <item>同步播放</item>
+        <item>音频输出</item>
+        <item>播放加密</item>
+        <item>自动转屏</item>
+	<item>人体感应</item>
+    </string-array>
+    <string-array name="image_mode">
+        <item>全屏</item>
+        <item>原始比例</item>
+    </string-array>
+    <string-array name="image_transition">
+        <item>关闭</item>
+        <item>随机</item>
+        <item>手风琴</item>
+        <item>右侧淡入</item>
+        <item>立方体淡入</item>
+        <item>立方体淡出</item>
+        <item>从里淡入</item>
+        <item>水平翻转</item>
+        <item>垂直翻转</item>
+        <item>右侧淡出</item>
+        <item>旋转淡出</item>
+        <item>旋转淡入</item>
+        <item>向左滑出</item>
+        <item>淡入淡出</item>
+        <item>缩放进入</item>
+        <item>缩放滑动退出</item>
+        <item>缩放退出</item>
+    </string-array>
+    <string-array name="language">
+        <item>中文</item>
+        <item>English</item>
+    </string-array>
+    <string-array name="logo_setting">
+        <item>关闭</item>
+        <item>左上角</item>
+        <item>右上角</item>
+        <item>左下角</item>
+        <item>右下角</item>
+    </string-array>
+    <string-array name="other_set_array">
+        <item>开机启动</item>
+        <item>文件管理</item>
+        <item>屏幕亮度</item>
+        <item>对  比  度</item>
+        <item>饱  和  度</item>
+	    <item>媒体音量</item>
+        <item>设备编号</item>
+	    <item>延时开机</item>
+        <item>软件版本</item>
+        <item>系统重置</item>
+    </string-array>
+    <string-array name="play_encode">
+        <item>关闭</item>
+        <item>打开</item>
+    </string-array>
+    <string-array name="power_delay_time_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+        <item>150</item>
+        <item>180</item>
+        <item>300</item>
+    </string-array>
+    <string-array name="priority_mode">
+        <item>内置存储</item>
+        <item>SD卡</item>
+        <item>USB设备</item>
+    </string-array>
+    <string-array name="repeat_mode">
+        <item>目录循环</item>
+        <item>单曲播放</item>
+    </string-array>
+    <string-array name="rolling_speed">
+        <item>慢速</item>
+        <item>正常</item>
+        <item>快速</item>
+    </string-array>
+    <string-array name="screen_rotation">
+        <item>0度</item>
+        <item>90度</item>
+        <item>180度</item>
+        <item>270度</item>
+    </string-array>
+    <string-array name="sensor_switch">
+        <item>关闭</item>
+        <item>静音</item>
+        <item>暂停播放</item>
+        <item>待机</item>
+    </string-array>
+    <string-array name="serial_port">
+        <item>关闭</item>
+        <item>主机模式</item>
+        <item>从机模式</item>
+    </string-array>
+    <string-array name="time_color">
+        <item>黄色</item>
+        <item>白色</item>
+        <item>黑色</item>
+        <item>红色</item>
+        <item>蓝色</item>
+    </string-array>
+    <string-array name="time_location">
+        <item>右上角</item>
+        <item>左上角</item>
+    </string-array>
+    <string-array name="time_set_left_array">
+        <item>时间开关</item>
+        <item>调整时间</item>
+        <item>时间格式</item>
+        <item>时间位置</item>
+        <item>时间大小</item>
+        <item>时间颜色</item>
+    </string-array>
+    <string-array name="time_size">
+        <item>小</item>
+        <item>中</item>
+        <item>大</item>
+    </string-array>
+    <string-array name="time_style">
+        <item>年-月-日 星期  时:分:秒</item>
+        <item>年-月-日 时:分:秒</item>
+        <item>时:分:秒</item>
+        <item>时:分</item>
+    </string-array>
+    <string-array name="time_switch">
+        <item>开</item>
+        <item>关</item>
+    </string-array>
+    <string-array name="video_mode">
+        <item>全屏</item>
+        <item>原始比例</item>
+    </string-array>
+    <string-array name="window_mode">
+        <item>关闭</item>
+        <item>自由模式</item>
+        <item>模式一</item>
+        <item>模式二</item>
+        <item>模式三</item>
+        <item>模式四</item>
+        <item>模式五</item>
+        <item>模式六</item>
+        <item>模式七</item>
+    </string-array>
+    <dimen name="setup_list_item_textsize">36sp</dimen>
+    <dimen name="setup_top_text_size">35dp</dimen>
+    <string name="Copying">正在拷贝</string>
+    <string name="ad_image">插播图片:</string>
+    <string name="ad_play_finish">"插播结束！"</string>
+    <string name="ad_play_start">"插播开始！"</string>
+    <string name="ad_set">设置</string>
+    <string name="ad_video">插播视频:</string>
+    <string name="adjust">调整</string>
+    <string name="app_name">XPlayer</string>
+    <string name="auto_on_off">设置</string>
+    <string name="back_key_again">"你确定退出程序？"</string>
+    <string name="brightness">50</string>
+    <string name="can_not_between_other_groups">设置的今天不同组的开关机时间段有重叠，请修改。</string>
+    <string name="cancel">"取消"</string>
+    <string name="confirm_reset_menu">确定要重置菜单吗？</string>
+    <string name="confirm_reset_menu_no">取消</string>
+    <string name="confirm_reset_menu_yes">确认</string>
+    <string name="confirm_reset_system">确认是否重置系统，重置前请拔下SD卡或者U盘，以免个人数据被删除！</string>
+    <string name="contrast">50</string>
+    <string name="copies_remaining">正在拷贝剩余的</string>
+    <string name="copy_exit">正在拷贝文件! 确认退出？</string>
+    <string name="copy_sd">SD卡被拔出！强制中断拷贝！</string>
+    <string name="copy_success">已拷贝完成 。</string>
+    <string name="copy_usb">U盘被拔出！强制中断拷贝！</string>
+    <string name="day">日</string>
+    <string name="details_all_text">全部</string>
+    <string name="details_image_text">图片</string>
+    <string name="details_music_text">音乐</string>
+    <string name="details_video_text">视频</string>
+    <string name="determine">"确定"</string>
+    <string name="donwload_notstart">"下载就绪..."</string>
+    <string name="download_count">"已下载:"</string>
+    <string name="download_fail">"下载失败"</string>
+    <string name="download_filelength">"文件大小:"</string>
+    <string name="download_success">"下载成功！"</string>
+    <string name="downloaded_success"> 已下载完成。</string>
+    <string name="downloading_exit">正在下载文件! 确认退出下载?</string>
+    <string name="external_storage">在外部存储: </string>
+    <string name="file">个文件</string>
+    <string name="file_manager">管理</string>
+    <string name="file_synchronized_copy"> 个文件，将同步进行拷贝！</string>
+    <string name="file_update_success">拷贝全部完成！正在更新媒体库，请稍后！</string>
+    <string name="firmware_version">固件版本:</string>
+    <string name="found_file">"共有 "</string>
+    <string name="found_file_update">" 个更新文件，是否需要更新？ "</string>
+    <string name="ftp_address">"远程更新地址:"</string>
+    <string name="ftp_address_comfire">更新</string>
+    <string name="ftp_address_tv_hint">请输入FTP地址</string>
+    <string name="heng">-</string>
+    <string name="hour">时</string>
+    <string name="hour_time">整点</string>
+    <string name="id">000000</string>
+    <string name="image_play_time">5秒</string>
+    <string name="image_time_sec">秒</string>
+    <string name="input_confirm">确认</string>
+    <string name="input_id">请输入ID号</string>
+    <string name="input_old_password">请输入旧密码:</string>
+    <string name="input_password">请输入密码</string>
+    <string name="input_password_again">请再次输入密码:</string>
+    <string name="key_fast_back">"快 退"</string>
+    <string name="key_fast_word">"快 进"</string>
+    <string name="key_next">"下一曲"</string>
+    <string name="key_pause">"暂 停"</string>
+    <string name="key_play">"播 放"</string>
+    <string name="key_pre">"上一曲"</string>
+    <string name="land_window">横屏</string>
+    <string name="mao">:</string>
+    <string name="media_date">"日期"</string>
+    <string name="media_music_name">"歌曲"</string>
+    <string name="media_music_singer">"歌手"</string>
+    <string name="media_title">"名称"</string>
+    <string name="media_unknown">"未知"</string>
+    <string name="menu_0">基本设定</string>
+    <string name="menu_1">字幕设定</string>
+    <string name="menu_2">功能设定</string>
+    <string name="menu_3">其他设定</string>
+    <string name="menu_sd_text">SD存储器</string>
+    <string name="menu_setting_text">设置</string>
+    <string name="menu_storage_text">内部存储器</string>
+    <string name="menu_usb_text">USB存储器</string>
+    <string name="minute">分</string>
+    <string name="month">月</string>
+    <string name="move_up_down">上移下移</string>
+    <string name="next_step">下一步</string>
+    <string name="no_ad_media_file">"没有找到插播内容！"</string>
+    <string name="no_devices">外部存储设备插入，拷贝过程中请勿拔掉外部设备！</string>
+    <string name="no_download_file">没有下载的媒体文件！</string>
+    <string name="no_folder"> 文件夹中没有找到视频文件！将退出拷贝！</string>
+    <string name="no_media_file">"没有找到任何媒体文件！"</string>
+    <string name="no_playlist_file">"当前节目和屏幕方向不匹配，或当前时间无节目。"</string>
+    <string name="no_playlist_file_curren_time">"当前时间段内无节目"</string>
+    <string name="no_setting_file">"没有找到 Setting.xml 设置文件！"</string>
+    <string name="play_image">播放图片:</string>
+    <string name="play_music">播放音乐:</string>
+    <string name="play_video">播放视频:</string>
+    <string name="port_window">竖屏</string>
+    <string name="power_delay_sec">秒</string>
+    <string name="power_off_time">关机时间</string>
+    <string name="power_on_time">开机时间</string>
+    <string name="remaining">正在下载剩余的 :</string>
+    <string name="remote_control">设置</string>
+    <string name="remote_key_down">下</string>
+    <string name="remote_key_left">左</string>
+    <string name="remote_key_right">右</string>
+    <string name="remote_key_up">上</string>
+    <string name="reset_menu">恢复</string>
+    <string name="reset_password">重置密码</string>
+    <string name="reset_system">重置</string>
+    <string name="restore_default_success">恢复出厂设置成功 !</string>
+    <string name="restore_defaults">"恢复默认设置"</string>
+    <string name="restore_defaults_dialog_msg">"确定要恢复到默认设置吗？"</string>
+    <string name="restore_defaults_dialog_neg">"取消"</string>
+    <string name="restore_defaults_dialog_pos">"确定"</string>
+    <string name="restore_defaults_value"> 是否恢复出厂设置？</string>
+    <string name="saturation">50</string>
+    <string name="save">"保存"</string>
+    <string name="save_datetime">保存时间更改</string>
+    <string name="save_time">确认</string>
+    <string name="second">秒</string>
+    <string name="set_finish">设置完成</string>
+    <string name="set_password">设置密码</string>
+    <string name="set_system_time">调整</string>
+    <string name="set_time">定点</string>
+    <string name="soft_version">软件版本:</string>
+    <string name="start_play_with_first_one">"插播内容列表有更新，将从第一个文件开始插播！"</string>
+    <string name="storage_sum_size">总大小 : %1$s</string>
+    <string name="storage_user_size">已使用 : %1$s</string>
+    <string name="switch_menu">切换菜单</string>
+    <string name="switch_next_group">"正在切换到下一个设置组..."</string>
+    <string name="switch_next_playlist">"正在切换到下一个播放列表..."</string>
+    <string name="text_basic_setup">"通用设置"</string>
+    <string name="text_custom_setup">"定制功能"</string>
+    <string name="text_others_setup">"其他设置"</string>
+    <string name="time_inter">图片播放时间</string>
+    <string name="time_set">设置</string>
+    <string name="toast_aready_setted">您已经设置过密码了，请退出设置！</string>
+    <string name="toast_delete_success">取消密码成功！</string>
+    <string name="toast_more_than_five_minutes">开关机时间间隔要大于5分钟，请修改。</string>
+    <string name="toast_only_six">密码长度为6位！</string>
+    <string name="toast_select_every">您已选择每天模式，请先取消。</string>
+    <string name="toast_select_week">您已选择星期模式，请先取消。</string>
+    <string name="toast_set_success">设置密码成功！</string>
+    <string name="toast_try_again">密码错误，请再次输入！</string>
+    <string name="toast_unlock_success">设置密码成功！</string>
+    <string name="total">共检索到：</string>
+    <string name="two_minutes_later_start">两分钟后进入关机流程。</string>
+    <string name="txt_id">ID号设置：</string>
+    <string name="unknown">未知</string>
+    <string name="unlock_success">解锁成功，1分钟后将会自动锁定遥控功能。</string>
+    <string name="update_cancel">"取消更新"</string>
+    <string name="update_file">"文件更新"</string>
+    <string name="update_message">下载全部完成，正在更新媒体库！</string>
+    <string name="update_now">"现在更新"</string>
+    <string name="version">XPlayer V3.0</string>
+    <string name="wrong_password">密码错误，请再次输入！</string>
+    <string name="year">年</string>
+</resources>

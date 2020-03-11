@@ -1,0 +1,249 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.worldchip.advertisingclient"
+4    android:sharedUserId="android.uid.system" >
+5
+6    <uses-sdk
+7        android:minSdkVersion="17"
+7-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml
+8        android:targetSdkVersion="25" />
+8-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml
+9
+10    <uses-permission android:name="android.permission.DEVICE_POWER" />
+10-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:6:5-70
+10-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:6:22-68
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:7:5-80
+11-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:7:22-78
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:8:5-79
+12-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:8:22-77
+13    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+13-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:9:5-73
+13-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:9:22-70
+14    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS" />
+14-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:10:5-80
+14-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:10:22-77
+15    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+15-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:11:5-83
+15-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:11:22-81
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:12:5-67
+16-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:12:22-64
+17    <uses-permission android:name="android.permission.GET_TASKS" />
+17-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:13:5-68
+17-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:13:22-65
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:14:5-79
+18-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:14:22-76
+19    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+19-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:15:5-80
+19-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:15:22-78
+20
+21    <!--
+22    <uses-sdk
+23        android:minSdkVersion="17"
+24        android:targetSdkVersion="25" />
+25    -->
+26    <application
+26-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:23:5-128:19
+27        android:allowBackup="true"
+27-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:24:9-35
+28        android:debuggable="true"
+29        android:icon="@drawable/ic_launcher"
+29-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:25:9-45
+30        android:label="@string/app_name"
+30-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:26:9-41
+31        android:largeHeap="true"
+31-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:27:9-33
+32        android:testOnly="true" >
+33        <activity
+33-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:29:10-38:20
+34            android:name="com.worldchip.advertising.client.activity.IdleActivity"
+34-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:29:20-89
+35            android:launchMode="singleTask"
+35-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:31:4-35
+36            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+36-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:30:18-76
+37            <intent-filter>
+37-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:32:13-37:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:33:17-69
+38-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:33:25-66
+39                <!-- <category android:name="android.intent.category.HOME" /> -->
+40                <category android:name="android.intent.category.DEFAULT" />
+40-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:35:17-76
+40-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:35:27-73
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:36:10-70
+41-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:36:20-67
+42            </intent-filter>
+43        </activity>
+44        <activity
+44-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:40:9-45:20
+45            android:name="com.worldchip.advertising.client.activity.MainActivity"
+45-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:41:13-82
+46            android:label="main"
+46-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:42:13-33
+47            android:launchMode="singleTask"
+47-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:44:4-35
+48            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+48-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:43:13-77
+49        </activity>
+50        <activity
+50-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:46:9-51:20
+51            android:name="com.worldchip.advertising.client.activity.PlayViewActivity"
+51-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:47:13-86
+52            android:label="playview"
+52-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:48:13-37
+53            android:launchMode="singleTask"
+53-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:50:6-37
+54            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+54-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:49:13-77
+55        </activity>
+56        <activity
+56-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:52:9-56:20
+57            android:name="com.worldchip.advertising.client.activity.CopyActivity"
+57-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:53:13-82
+58            android:launchMode="singleTop"
+58-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:54:13-43
+59            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+59-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:55:13-71
+60        </activity>
+61        <activity
+61-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:57:9-61:20
+62            android:name="com.worldchip.advertising.client.activity.SetupActivity"
+62-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:58:13-83
+63            android:launchMode="singleTop"
+63-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:59:6-36
+64            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+64-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:60:13-77
+65        </activity>
+66        <activity
+66-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:62:9-66:20
+67            android:name="com.worldchip.advertising.client.activity.RemoteControlMainActivity"
+67-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:63:13-95
+68            android:launchMode="singleTop"
+68-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:64:13-43
+69            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+69-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:65:13-71
+70        </activity>
+71        <activity
+71-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:67:9-71:20
+72            android:name="com.worldchip.advertising.client.activity.RemoteControlResetActivity"
+72-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:68:13-96
+73            android:launchMode="singleTop"
+73-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:69:13-43
+74            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+74-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:70:13-71
+75        </activity>
+76        <activity
+76-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:72:9-76:20
+77            android:name="com.worldchip.advertising.client.activity.RemoteControlSettingActivity"
+77-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:73:13-98
+78            android:launchMode="singleTop"
+78-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:74:13-43
+79            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+79-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:75:13-71
+80        </activity>
+81
+82        <service android:name="com.worldchip.advertising.client.copy.CopyService" >
+82-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:78:9-79:19
+82-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:78:18-82
+83        </service>
+84
+85        <receiver android:name="com.worldchip.advertising.client.service.BootReceiver" >
+85-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:81:9-85:20
+85-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:81:19-87
+86            <intent-filter android:priority="90000" >
+86-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:82:13-84:29
+86-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:82:28-52
+87                <action android:name="android.intent.action.BOOT_COMPLETED" />
+87-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:83:17-79
+87-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:83:25-76
+88            </intent-filter>
+89        </receiver>
+90        <receiver android:name="com.worldchip.advertising.client.service.MediaCardReceiver" >
+90-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:87:3-98:20
+90-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:87:13-86
+91            <intent-filter>
+91-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:88:10-97:26
+92                <action android:name="android.intent.action.MEDIA_MOUNTED" />
+92-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:89:12-81
+92-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:89:21-71
+93                <action android:name="android.intent.action.MEDIA_UNMOUNTED" />
+93-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:90:18-89
+93-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:90:27-79
+94                <action android:name="android.intent.action.MEDIA_REMOVED" />
+94-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:91:18-87
+94-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:91:27-77
+95                <action android:name="android.intent.action.MEDIA_SCANNER_FINISHED" />
+95-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:92:18-96
+95-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:92:27-86
+96                <action android:name="android.intent.action.MEDIA_SCANNER_SCAN_FILE" />
+96-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:93:18-97
+96-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:93:27-87
+97                <action android:name="android.intent.action.MEDIA_SCANNER_STARTED" />
+97-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:94:18-95
+97-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:94:27-85
+98                <action android:name="android.intent.action.MEDIA_SCANNER_SYNC_DB" />
+98-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:95:18-95
+98-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:95:27-85
+99
+100                <data android:scheme="file" />
+100-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:96:18-56
+100-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:96:27-48
+101            </intent-filter>
+102        </receiver>
+103
+104        <activity
+104-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:100:9-103:20
+105            android:name="com.worldchip.advertisingclient.RemoteControlMainActivity"
+105-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:101:13-54
+106            android:label="@string/title_activity_remote_control_main" >
+106-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:102:13-71
+107        </activity>
+108        <activity
+108-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:104:9-107:20
+109            android:name="com.worldchip.advertisingclient.RemoteControlSettingActivity"
+109-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:105:13-57
+110            android:label="@string/title_activity_remote_control_setting" >
+110-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:106:13-74
+111        </activity>
+112        <activity
+112-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:108:9-111:20
+113            android:name="com.worldchip.advertisingclient.RemoteControlResetActivity"
+113-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:109:13-55
+114            android:label="@string/title_activity_remote_control_reset" >
+114-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:110:13-72
+115        </activity>
+116        <activity
+116-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:112:9-115:20
+117            android:name="com.worldchip.advertisingclient.SetupActivity"
+117-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:113:13-42
+118            android:label="@string/title_activity_setup" >
+118-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:114:13-57
+119        </activity>
+120        <activity
+120-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:117:9-121:20
+121            android:name="com.worldchip.advertising.client.activity.PowerOnOffActivity"
+121-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:118:13-88
+122            android:launchMode="singleTop"
+122-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:120:13-43
+123            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+123-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:119:13-71
+124        </activity>
+125
+126        <service android:name="com.worldchip.advertising.client.service.DetectTimeService" >
+126-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:123:9-127:19
+126-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:123:18-91
+127            <intent-filter>
+127-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:124:13-126:29
+128                <action android:name="android.intent.action.RESPOND_VIA_MESSAGE" />
+128-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:125:17-83
+128-->F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:125:25-81
+129            </intent-filter>
+130        </service>
+131    </application>
+132
+133</manifest>

@@ -1,0 +1,28 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+    <Button
+        android:text="@string/reset_password"
+        android:textSize="56sp"
+        android:width="500dp"
+        android:layout_centerInParent="true"
+        android:id="@+id/reset_password_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical" />
+
+    <Button
+        android:text="@string/set_password"
+        android:textSize="56sp"
+        android:width="500dp"
+        android:layout_marginTop="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/reset_password_btn"
+        android:id="@+id/set_password_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+</RelativeLayout>

@@ -1,0 +1,255 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:2:1-130:12
+INJECTED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:2:1-130:12
+INJECTED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:2:1-130:12
+	package
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml
+	android:sharedUserId
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:4:5-46
+	xmlns:android
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.DEVICE_POWER
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:6:5-70
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:9:5-73
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:9:22-70
+uses-permission#android.permission.WRITE_SECURE_SETTINGS
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:11:5-83
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:11:22-81
+uses-permission#android.permission.INTERNET
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.GET_TASKS
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:13:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:15:22-78
+application
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:23:5-128:19
+	android:label
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:26:9-41
+	android:largeHeap
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:27:9-33
+	android:icon
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:25:9-45
+	android:allowBackup
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:24:9-35
+activity#com.worldchip.advertising.client.activity.IdleActivity
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:29:10-38:20
+	android:launchMode
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:31:4-35
+	android:theme
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:30:18-76
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:29:20-89
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:32:13-37:29
+action#android.intent.action.MAIN
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.DEFAULT
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:35:27-73
+category#android.intent.category.LAUNCHER
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:36:10-70
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:36:20-67
+activity#com.worldchip.advertising.client.activity.MainActivity
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:40:9-45:20
+	android:label
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:42:13-33
+	android:launchMode
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:44:4-35
+	android:theme
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:43:13-77
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:41:13-82
+activity#com.worldchip.advertising.client.activity.PlayViewActivity
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:46:9-51:20
+	android:label
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:48:13-37
+	android:launchMode
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:50:6-37
+	android:theme
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:49:13-77
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:47:13-86
+activity#com.worldchip.advertising.client.activity.CopyActivity
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:52:9-56:20
+	android:launchMode
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:54:13-43
+	android:theme
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:55:13-71
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:53:13-82
+activity#com.worldchip.advertising.client.activity.SetupActivity
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:57:9-61:20
+	android:launchMode
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:59:6-36
+	android:theme
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:60:13-77
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:58:13-83
+activity#com.worldchip.advertising.client.activity.RemoteControlMainActivity
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:62:9-66:20
+	android:launchMode
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:64:13-43
+	android:theme
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:65:13-71
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:63:13-95
+activity#com.worldchip.advertising.client.activity.RemoteControlResetActivity
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:67:9-71:20
+	android:launchMode
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:69:13-43
+	android:theme
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:70:13-71
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:68:13-96
+activity#com.worldchip.advertising.client.activity.RemoteControlSettingActivity
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:72:9-76:20
+	android:launchMode
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:74:13-43
+	android:theme
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:75:13-71
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:73:13-98
+service#com.worldchip.advertising.client.copy.CopyService
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:78:9-79:19
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:78:18-82
+receiver#com.worldchip.advertising.client.service.BootReceiver
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:81:9-85:20
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:81:19-87
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:82:13-84:29
+	android:priority
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:82:28-52
+action#android.intent.action.BOOT_COMPLETED
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:83:17-79
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:83:25-76
+receiver#com.worldchip.advertising.client.service.MediaCardReceiver
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:87:3-98:20
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:87:13-86
+intent-filter#action:name:android.intent.action.MEDIA_MOUNTED+action:name:android.intent.action.MEDIA_REMOVED+action:name:android.intent.action.MEDIA_SCANNER_FINISHED+action:name:android.intent.action.MEDIA_SCANNER_SCAN_FILE+action:name:android.intent.action.MEDIA_SCANNER_STARTED+action:name:android.intent.action.MEDIA_SCANNER_SYNC_DB+action:name:android.intent.action.MEDIA_UNMOUNTED+data:scheme:file
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:88:10-97:26
+action#android.intent.action.MEDIA_MOUNTED
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:89:12-81
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:89:21-71
+action#android.intent.action.MEDIA_UNMOUNTED
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:90:18-89
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:90:27-79
+action#android.intent.action.MEDIA_REMOVED
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:91:18-87
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:91:27-77
+action#android.intent.action.MEDIA_SCANNER_FINISHED
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:92:18-96
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:92:27-86
+action#android.intent.action.MEDIA_SCANNER_SCAN_FILE
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:93:18-97
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:93:27-87
+action#android.intent.action.MEDIA_SCANNER_STARTED
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:94:18-95
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:94:27-85
+action#android.intent.action.MEDIA_SCANNER_SYNC_DB
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:95:18-95
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:95:27-85
+data
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:96:18-56
+	android:scheme
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:96:27-48
+activity#com.worldchip.advertisingclient.RemoteControlMainActivity
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:100:9-103:20
+	android:label
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:102:13-71
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:101:13-54
+activity#com.worldchip.advertisingclient.RemoteControlSettingActivity
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:104:9-107:20
+	android:label
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:106:13-74
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:105:13-57
+activity#com.worldchip.advertisingclient.RemoteControlResetActivity
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:108:9-111:20
+	android:label
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:110:13-72
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:109:13-55
+activity#com.worldchip.advertisingclient.SetupActivity
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:112:9-115:20
+	android:label
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:114:13-57
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:113:13-42
+activity#com.worldchip.advertising.client.activity.PowerOnOffActivity
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:117:9-121:20
+	android:launchMode
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:120:13-43
+	android:theme
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:119:13-71
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:118:13-88
+service#com.worldchip.advertising.client.service.DetectTimeService
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:123:9-127:19
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:123:18-91
+intent-filter#action:name:android.intent.action.RESPOND_VIA_MESSAGE
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:124:13-126:29
+action#android.intent.action.RESPOND_VIA_MESSAGE
+ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:125:17-83
+	android:name
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml:125:25-81
+uses-sdk
+INJECTED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml
+INJECTED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml
+INJECTED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml
+INJECTED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml
+		ADDED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AdvertisingClient_xcd\app\src\main\AndroidManifest.xml

@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="F:\AdvertisingClient_xcd\app\src\main\res"/><source path="F:\AdvertisingClient_xcd\app\build\generated\res\rs\debug"/><source path="F:\AdvertisingClient_xcd\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="F:\AdvertisingClient_xcd\app\src\main\res"><file name="alpha_rotate_in" path="F:\AdvertisingClient_xcd\app\src\main\res\anim\alpha_rotate_in.xml" qualifiers="" type="anim"/><file name="alpha_rotate_out" path="F:\AdvertisingClient_xcd\app\src\main\res\anim\alpha_rotate_out.xml" qualifiers="" type="anim"/><file name="alpha_scale_in" path="F:\AdvertisingClient_xcd\app\src\main\res\anim\alpha_scale_in.xml" qualifiers="" type="anim"/><file name="alpha_scale_out" path="F:\AdvertisingClient_xcd\app\src\main\res\anim\alpha_scale_out.xml" qualifiers="" type="anim"/><file name="alpha_scale_translate_in" path="F:\AdvertisingClient_xcd\app\src\main\res\anim\alpha_scale_translate_in.xml" qualifiers="" type="anim"/><file name="alpha_scale_translate_out" path="F:\AdvertisingClient_xcd\app\src\main\res\anim\alpha_scale_translate_out.xml" qualifiers="" type="anim"/><file name="alpha_scale_translate_rotate_in" path="F:\AdvertisingClient_xcd\app\src\main\res\anim\alpha_scale_translate_rotate_in.xml" qualifiers="" type="anim"/><file name="alpha_scale_translate_rotate_out" path="F:\AdvertisingClient_xcd\app\src\main\res\anim\alpha_scale_translate_rotate_out.xml" qualifiers="" type="anim"/><file name="bounce_in" path="F:\AdvertisingClient_xcd\app\src\main\res\anim\bounce_in.xml" qualifiers="" type="anim"/><file name="bounce_out" path="F:\AdvertisingClient_xcd\app\src\main\res\anim\bounce_out.xml" qualifiers="" type="anim"/><file name="erase_translate_in" path="F:\AdvertisingClient_xcd\app\src\main\res\anim\erase_translate_in.xml" qualifiers="" type="anim"/><file name="erase_translate_out" path="F:\AdvertisingClient_xcd\app\src\main\res\anim\erase_translate_out.xml" qualifiers="" type="anim"/><file name="load_photo" path="F:\AdvertisingClient_xcd\app\src\main\res\anim\load_photo.xml" qualifiers="" type="anim"/><file name="slide_in" path="F:\AdvertisingClient_xcd\app\src\main\res\anim\slide_in.xml" qualifiers="" type="anim"/><file name="slide_in_vertical" path="F:\AdvertisingClient_xcd\app\src\main\res\anim\slide_in_vertical.xml" qualifiers="" type="anim"/><file name="slide_out" path="F:\AdvertisingClient_xcd\app\src\main\res\anim\slide_out.xml" qualifiers="" type="anim"/><file name="slide_out_vertical" path="F:\AdvertisingClient_xcd\app\src\main\res\anim\slide_out_vertical.xml" qualifiers="" type="anim"/><file name="to_large" path="F:\AdvertisingClient_xcd\app\src\main\res\anim\to_large.xml" qualifiers="" type="anim"/><file name="to_small" path="F:\AdvertisingClient_xcd\app\src\main\res\anim\to_small.xml" qualifiers="" type="anim"/><file name="transition_in" path="F:\AdvertisingClient_xcd\app\src\main\res\anim\transition_in.xml" qualifiers="" type="anim"/><file name="transition_out" path="F:\AdvertisingClient_xcd\app\src\main\res\anim\transition_out.xml" qualifiers="" type="anim"/><file name="eve" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en\eve.png" qualifiers="en" type="drawable"/><file name="eve_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en\eve_sel.png" qualifiers="en" type="drawable"/><file name="fri" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en\fri.png" qualifiers="en" type="drawable"/><file name="fri_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en\fri_sel.png" qualifiers="en" type="drawable"/><file name="mon" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en\mon.png" qualifiers="en" type="drawable"/><file name="mon_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en\mon_sel.png" qualifiers="en" type="drawable"/><file name="sat" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en\sat.png" qualifiers="en" type="drawable"/><file name="sat_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en\sat_sel.png" qualifiers="en" type="drawable"/><file name="sun" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en\sun.png" qualifiers="en" type="drawable"/><file name="sun_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en\sun_sel.png" qualifiers="en" type="drawable"/><file name="thu" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en\thu.png" qualifiers="en" type="drawable"/><file name="thu_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en\thu_sel.png" qualifiers="en" type="drawable"/><file name="tue" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en\tue.png" qualifiers="en" type="drawable"/><file name="tue_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en\tue_sel.png" qualifiers="en" type="drawable"/><file name="wen" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en\wen.png" qualifiers="en" type="drawable"/><file name="wen_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en\wen_sel.png" qualifiers="en" type="drawable"/><file name="eve" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en-port-mdpi\eve.png" qualifiers="en-port-mdpi-v4" type="drawable"/><file name="eve_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en-port-mdpi\eve_sel.png" qualifiers="en-port-mdpi-v4" type="drawable"/><file name="fri" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en-port-mdpi\fri.png" qualifiers="en-port-mdpi-v4" type="drawable"/><file name="fri_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en-port-mdpi\fri_sel.png" qualifiers="en-port-mdpi-v4" type="drawable"/><file name="mon" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en-port-mdpi\mon.png" qualifiers="en-port-mdpi-v4" type="drawable"/><file name="mon_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en-port-mdpi\mon_sel.png" qualifiers="en-port-mdpi-v4" type="drawable"/><file name="sat" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en-port-mdpi\sat.png" qualifiers="en-port-mdpi-v4" type="drawable"/><file name="sat_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en-port-mdpi\sat_sel.png" qualifiers="en-port-mdpi-v4" type="drawable"/><file name="sun" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en-port-mdpi\sun.png" qualifiers="en-port-mdpi-v4" type="drawable"/><file name="sun_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en-port-mdpi\sun_sel.png" qualifiers="en-port-mdpi-v4" type="drawable"/><file name="thu" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en-port-mdpi\thu.png" qualifiers="en-port-mdpi-v4" type="drawable"/><file name="thu_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en-port-mdpi\thu_sel.png" qualifiers="en-port-mdpi-v4" type="drawable"/><file name="tue" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en-port-mdpi\tue.png" qualifiers="en-port-mdpi-v4" type="drawable"/><file name="tue_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en-port-mdpi\tue_sel.png" qualifiers="en-port-mdpi-v4" type="drawable"/><file name="wen" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en-port-mdpi\wen.png" qualifiers="en-port-mdpi-v4" type="drawable"/><file name="wen_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-en-port-mdpi\wen_sel.png" qualifiers="en-port-mdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="add" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\add.png" qualifiers="mdpi-v4" type="drawable"/><file name="background" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\background.png" qualifiers="mdpi-v4" type="drawable"/><file name="control_main" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\control_main.png" qualifiers="mdpi-v4" type="drawable"/><file name="copy_background" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\copy_background.png" qualifiers="mdpi-v4" type="drawable"/><file name="eve" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\eve.png" qualifiers="mdpi-v4" type="drawable"/><file name="eve_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\eve_sel.png" qualifiers="mdpi-v4" type="drawable"/><file name="exit" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\exit.png" qualifiers="mdpi-v4" type="drawable"/><file name="fri" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\fri.png" qualifiers="mdpi-v4" type="drawable"/><file name="fri_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\fri_sel.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_0" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\icon_0.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_1" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\icon_1.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_2" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\icon_2.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_3" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\icon_3.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_image" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\icon_image.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_music" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\icon_music.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_video" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\icon_video.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="key_fast_back" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\key_fast_back.png" qualifiers="mdpi-v4" type="drawable"/><file name="key_fast_forward" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\key_fast_forward.png" qualifiers="mdpi-v4" type="drawable"/><file name="key_next" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\key_next.png" qualifiers="mdpi-v4" type="drawable"/><file name="key_pause" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\key_pause.png" qualifiers="mdpi-v4" type="drawable"/><file name="key_play" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\key_play.png" qualifiers="mdpi-v4" type="drawable"/><file name="key_pre" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\key_pre.png" qualifiers="mdpi-v4" type="drawable"/><file name="list_background" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\list_background.png" qualifiers="mdpi-v4" type="drawable"/><file name="main_bg" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\main_bg.png" qualifiers="mdpi-v4" type="drawable"/><file name="menu0" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\menu0.png" qualifiers="mdpi-v4" type="drawable"/><file name="menu0_focus" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\menu0_focus.png" qualifiers="mdpi-v4" type="drawable"/><file name="menu1" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\menu1.png" qualifiers="mdpi-v4" type="drawable"/><file name="menu1_focus" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\menu1_focus.png" qualifiers="mdpi-v4" type="drawable"/><file name="menu2" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\menu2.png" qualifiers="mdpi-v4" type="drawable"/><file name="menu2_focus" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\menu2_focus.png" qualifiers="mdpi-v4" type="drawable"/><file name="menu3" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\menu3.png" qualifiers="mdpi-v4" type="drawable"/><file name="menu3_focus" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\menu3_focus.png" qualifiers="mdpi-v4" type="drawable"/><file name="mmm" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\mmm.png" qualifiers="mdpi-v4" type="drawable"/><file name="mode1" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\mode1.png" qualifiers="mdpi-v4" type="drawable"/><file name="mode2" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\mode2.png" qualifiers="mdpi-v4" type="drawable"/><file name="mode3" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\mode3.png" qualifiers="mdpi-v4" type="drawable"/><file name="mode4" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\mode4.png" qualifiers="mdpi-v4" type="drawable"/><file name="mode5" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\mode5.png" qualifiers="mdpi-v4" type="drawable"/><file name="mode6" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\mode6.png" qualifiers="mdpi-v4" type="drawable"/><file name="mode7" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\mode7.png" qualifiers="mdpi-v4" type="drawable"/><file name="mon" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\mon.png" qualifiers="mdpi-v4" type="drawable"/><file name="mon_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\mon_sel.png" qualifiers="mdpi-v4" type="drawable"/><file name="music_icon" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\music_icon.png" qualifiers="mdpi-v4" type="drawable"/><file name="music_main_bg" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\music_main_bg.png" qualifiers="mdpi-v4" type="drawable"/><file name="music_main_bg_port" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\music_main_bg_port.png" qualifiers="mdpi-v4" type="drawable"/><file name="normal6" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\normal6.png" qualifiers="mdpi-v4" type="drawable"/><file name="normal7" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\normal7.jpg" qualifiers="mdpi-v4" type="drawable"/><file name="nowindow" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\nowindow.png" qualifiers="mdpi-v4" type="drawable"/><file name="popbackground" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\popbackground.png" qualifiers="mdpi-v4" type="drawable"/><file name="port6" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\port6.jpg" qualifiers="mdpi-v4" type="drawable"/><file name="port7" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\port7.jpg" qualifiers="mdpi-v4" type="drawable"/><file name="port_background" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\port_background.png" qualifiers="mdpi-v4" type="drawable"/><file name="press_del" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\press_del.png" qualifiers="mdpi-v4" type="drawable"/><file name="press_down" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\press_down.png" qualifiers="mdpi-v4" type="drawable"/><file name="press_left" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\press_left.png" qualifiers="mdpi-v4" type="drawable"/><file name="press_right" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\press_right.png" qualifiers="mdpi-v4" type="drawable"/><file name="press_up" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\press_up.png" qualifiers="mdpi-v4" type="drawable"/><file name="remove" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\remove.png" qualifiers="mdpi-v4" type="drawable"/><file name="right_enter" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\right_enter.png" qualifiers="mdpi-v4" type="drawable"/><file name="sat" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\sat.png" qualifiers="mdpi-v4" type="drawable"/><file name="sat_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\sat_sel.png" qualifiers="mdpi-v4" type="drawable"/><file name="sun" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\sun.png" qualifiers="mdpi-v4" type="drawable"/><file name="sun_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\sun_sel.png" qualifiers="mdpi-v4" type="drawable"/><file name="thu" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\thu.png" qualifiers="mdpi-v4" type="drawable"/><file name="thu_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\thu_sel.png" qualifiers="mdpi-v4" type="drawable"/><file name="tue" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\tue.png" qualifiers="mdpi-v4" type="drawable"/><file name="tue_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\tue_sel.png" qualifiers="mdpi-v4" type="drawable"/><file name="week_select" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\week_select.png" qualifiers="mdpi-v4" type="drawable"/><file name="wen" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\wen.png" qualifiers="mdpi-v4" type="drawable"/><file name="wen_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\wen_sel.png" qualifiers="mdpi-v4" type="drawable"/><file name="you" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\you.png" qualifiers="mdpi-v4" type="drawable"/><file name="zuo" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-mdpi\zuo.png" qualifiers="mdpi-v4" type="drawable"/><file name="eve" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-port-mdpi\eve.png" qualifiers="port-mdpi-v4" type="drawable"/><file name="eve_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-port-mdpi\eve_sel.png" qualifiers="port-mdpi-v4" type="drawable"/><file name="fri" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-port-mdpi\fri.png" qualifiers="port-mdpi-v4" type="drawable"/><file name="fri_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-port-mdpi\fri_sel.png" qualifiers="port-mdpi-v4" type="drawable"/><file name="mon" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-port-mdpi\mon.png" qualifiers="port-mdpi-v4" type="drawable"/><file name="mon_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-port-mdpi\mon_sel.png" qualifiers="port-mdpi-v4" type="drawable"/><file name="sat" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-port-mdpi\sat.png" qualifiers="port-mdpi-v4" type="drawable"/><file name="sat_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-port-mdpi\sat_sel.png" qualifiers="port-mdpi-v4" type="drawable"/><file name="sun" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-port-mdpi\sun.png" qualifiers="port-mdpi-v4" type="drawable"/><file name="sun_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-port-mdpi\sun_sel.png" qualifiers="port-mdpi-v4" type="drawable"/><file name="thu" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-port-mdpi\thu.png" qualifiers="port-mdpi-v4" type="drawable"/><file name="thu_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-port-mdpi\thu_sel.png" qualifiers="port-mdpi-v4" type="drawable"/><file name="tue" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-port-mdpi\tue.png" qualifiers="port-mdpi-v4" type="drawable"/><file name="tue_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-port-mdpi\tue_sel.png" qualifiers="port-mdpi-v4" type="drawable"/><file name="wen" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-port-mdpi\wen.png" qualifiers="port-mdpi-v4" type="drawable"/><file name="wen_sel" path="F:\AdvertisingClient_xcd\app\src\main\res\drawable-port-mdpi\wen_sel.png" qualifiers="port-mdpi-v4" type="drawable"/><file name="activity_remote_control_main" path="F:\AdvertisingClient_xcd\app\src\main\res\layout\activity_remote_control_main.xml" qualifiers="" type="layout"/><file name="activity_remote_control_reset" path="F:\AdvertisingClient_xcd\app\src\main\res\layout\activity_remote_control_reset.xml" qualifiers="" type="layout"/><file name="activity_remote_control_setting" path="F:\AdvertisingClient_xcd\app\src\main\res\layout\activity_remote_control_setting.xml" qualifiers="" type="layout"/><file name="activity_setup" path="F:\AdvertisingClient_xcd\app\src\main\res\layout\activity_setup.xml" qualifiers="" type="layout"/><file name="change_time_layout" path="F:\AdvertisingClient_xcd\app\src\main\res\layout\change_time_layout.xml" qualifiers="" type="layout"/><file name="check_password_pop_layout" path="F:\AdvertisingClient_xcd\app\src\main\res\layout\check_password_pop_layout.xml" qualifiers="" type="layout"/><file name="copy_item_layout" path="F:\AdvertisingClient_xcd\app\src\main\res\layout\copy_item_layout.xml" qualifiers="" type="layout"/><file name="copy_main" path="F:\AdvertisingClient_xcd\app\src\main\res\layout\copy_main.xml" qualifiers="" type="layout"/><file name="idle_layout" path="F:\AdvertisingClient_xcd\app\src\main\res\layout\idle_layout.xml" qualifiers="" type="layout"/><file name="input_id_layout" path="F:\AdvertisingClient_xcd\app\src\main\res\layout\input_id_layout.xml" qualifiers="" type="layout"/><file name="marquee_image" path="F:\AdvertisingClient_xcd\app\src\main\res\layout\marquee_image.xml" qualifiers="" type="layout"/><file name="marquee_pager" path="F:\AdvertisingClient_xcd\app\src\main\res\layout\marquee_pager.xml" qualifiers="" type="layout"/><file name="music_main" path="F:\AdvertisingClient_xcd\app\src\main\res\layout\music_main.xml" qualifiers="" type="layout"/><file name="power_on_off_main" path="F:\AdvertisingClient_xcd\app\src\main\res\layout\power_on_off_main.xml" qualifiers="" type="layout"/><file name="power_set_pop_layout" path="F:\AdvertisingClient_xcd\app\src\main\res\layout\power_set_pop_layout.xml" qualifiers="" type="layout"/><file name="remote_control_layout" path="F:\AdvertisingClient_xcd\app\src\main\res\layout\remote_control_layout.xml" qualifiers="" type="layout"/><file name="setup_list_detail" path="F:\AdvertisingClient_xcd\app\src\main\res\layout\setup_list_detail.xml" qualifiers="" type="layout"/><file name="time_setting_list" path="F:\AdvertisingClient_xcd\app\src\main\res\layout\time_setting_list.xml" qualifiers="" type="layout"/><file name="window_mode_pop" path="F:\AdvertisingClient_xcd\app\src\main\res\layout\window_mode_pop.xml" qualifiers="" type="layout"/><file name="activity_setup" path="F:\AdvertisingClient_xcd\app\src\main\res\layout-port\activity_setup.xml" qualifiers="port" type="layout"/><file name="change_time_layout" path="F:\AdvertisingClient_xcd\app\src\main\res\layout-port\change_time_layout.xml" qualifiers="port" type="layout"/><file name="copy_item_layout" path="F:\AdvertisingClient_xcd\app\src\main\res\layout-port\copy_item_layout.xml" qualifiers="port" type="layout"/><file name="idle_layout" path="F:\AdvertisingClient_xcd\app\src\main\res\layout-port\idle_layout.xml" qualifiers="port" type="layout"/><file name="music_main" path="F:\AdvertisingClient_xcd\app\src\main\res\layout-port\music_main.xml" qualifiers="port" type="layout"/><file name="power_on_off_main" path="F:\AdvertisingClient_xcd\app\src\main\res\layout-port\power_on_off_main.xml" qualifiers="port" type="layout"/><file name="power_set_pop_layout" path="F:\AdvertisingClient_xcd\app\src\main\res\layout-port\power_set_pop_layout.xml" qualifiers="port" type="layout"/><file name="setup_list_detail" path="F:\AdvertisingClient_xcd\app\src\main\res\layout-port\setup_list_detail.xml" qualifiers="port" type="layout"/><file name="time_setting_list" path="F:\AdvertisingClient_xcd\app\src\main\res\layout-port\time_setting_list.xml" qualifiers="port" type="layout"/><file path="F:\AdvertisingClient_xcd\app\src\main\res\values\arrays.xml" qualifiers=""><string-array name="basic_set_array">
+        <item>Language</item>
+        <item>Play Device</item>
+        <item>Copy Mode</item>
+        <item>Play Mode</item>
+        <item>Time Setting</item>
+        <item>Fixed Timing</item>
+        <item>Video Aspect</item>
+        <item>Image Aspect</item>
+        <item>Photo Effects</item>
+        <item>Photo Slider Time</item>
+        <item>Reset Menu</item>
+    </string-array><string-array name="caption_set_array">
+        <item>Switch</item>
+        <item>Size</item>
+        <item>Color</item>
+        <item>Background Color</item>
+        <item>Speed</item>
+	<item>Location</item>
+    </string-array><string-array name="function_set_array">
+        <item>Rotate Screen</item>
+        <item>Split Screen</item>
+        <item>Ad Play</item>
+        <item>Background Music</item>
+        <item>Show Logo</item>
+        <item>Lock</item>
+        <item>Same Pace</item>
+        <item>Audio Out Mode</item>
+        <item>Play Encode File</item>
+        <item>Auto Rotation Screen</item>
+	<item>Sensor Switch</item>
+    </string-array><string-array name="other_set_array">
+        <item>Boot</item>
+        <item>File Manager</item>
+        <item>Brightness</item>
+        <item>Contrast</item>
+        <item>Saturation</item>
+	<item>Change Volume</item>
+        <item>Set ID</item>
+	<item>Power Delay</item>
+        <item>Version</item>
+        <item>Reset System</item>
+    </string-array><string-array name="power_delay_time_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+        <item>150</item>
+        <item>180</item>
+        <item>300</item>
+    </string-array><string-array name="language">
+        <item>中文</item>
+        <item>English</item>
+    </string-array><string-array name="priority_mode">
+        <item>Nand</item>
+        <item>SD</item>
+        <item>USB</item>
+    </string-array><string-array name="copy_mode">
+        <item>Format</item>
+        <item>Add</item>
+    </string-array><string-array name="repeat_mode">
+        <item>List Cycle</item>
+        <item>REPEAT</item>
+    </string-array><string-array name="video_mode">
+        <item>Full Screen</item>
+        <item>Fit</item>
+    </string-array><string-array name="image_mode">
+        <item>Full Screen</item>
+        <item>Fit</item>
+    </string-array><string-array name="image_transition">
+        <item>Off</item>
+        <item>Random</item>
+        <item>Accordion Transformer</item>
+        <item>Background To Foreground</item>
+        <item>Cube In Transformer</item>
+        <item>Cube Out Transformer</item>
+        <item>Depth Page Transformer</item>
+        <item>Flip Horizontal</item>
+        <item>Flip Vertical</item>
+        <item>Foreground To Background</item>
+        <item>RotateDown Transformer</item>
+        <item>RotateUp Transformer</item>
+        <item>Stack Transformer</item>
+        <item>Tablet Transformer</item>
+        <item>Zoom In Transformer</item>
+        <item>Zoom Out Slide Transformer</item>
+        <item>Zoom Out Transformer</item>
+    </string-array><string-array name="caption_switch">
+        <item>On</item>
+        <item>Off</item>
+    </string-array><string-array name="caption_size">
+        <item>Small</item>
+        <item>Normal</item>
+        <item>Big</item>
+    </string-array><string-array name="caption_color">
+        <item>Yellow</item>
+        <item>White</item>
+        <item>Black</item>
+        <item>Red</item>
+        <item>Blue</item>
+    </string-array><string-array name="caption_background_color">
+        <item>Transparent</item>
+        <item>Yellow</item>
+        <item>White</item>
+        <item>Black</item>
+        <item>Red</item>
+        <item>Blue</item>
+    </string-array><string-array name="rolling_speed">
+        <item>Slow</item>
+        <item>Normal</item>
+        <item>Fast</item>
+    </string-array><string-array name="caption_location">
+        <item>Bottom</item>
+        <item>Top</item>
+    </string-array><string-array name="screen_rotation">
+        <item>0 degree</item>
+        <item>90 degrees</item>
+        <item>180 degrees</item>
+        <item>270 degrees</item>
+    </string-array><string-array name="window_mode">
+        <item>Off</item>
+        <item>Free</item>
+        <item>Model 1</item>
+        <item>Model 2</item>
+        <item>Model 3</item>
+        <item>Model 4</item>
+        <item>Model 5</item>
+        <item>Model 6</item>
+        <item>Model 7</item>
+    </string-array><string-array name="background_music">
+        <item>Off</item>
+        <item>On</item>
+    </string-array><string-array name="logo_setting">
+        <item>Close</item>
+        <item>Top-Left Corner</item>
+        <item>Top-Right Corner</item>
+        <item>Bottom-Left Corner</item>
+        <item>Bottom-Left Corner</item>
+    </string-array><string-array name="serial_port">
+        <item>Off</item>
+        <item>Main</item>
+        <item>Follow</item>
+    </string-array><string-array name="audio_out_mode">
+        <item>Codec</item>
+        <item>HDMI</item>
+        <item>Codec and HDMI</item>
+    </string-array><string-array name="play_encode">
+        <item>Off</item>
+        <item>On</item>
+    </string-array><string-array name="auto_rotation_screen">
+        <item>Off</item>
+        <item>On</item>
+    </string-array><string-array name="sensor_switch">
+        <item>Off</item>
+        <item>Mute</item>
+        <item>Pause</item>
+        <item>Screen Off</item>
+    </string-array><string-array name="boot">
+        <item>On</item>
+        <item>Off</item>
+    </string-array><string-array name="time_set_left_array">
+        <item>Switch</item>
+        <item>Adjust</item>
+        <item>Style</item>
+        <item>Location</item>
+        <item>Size</item>
+        <item>Color</item>
+    </string-array><string-array name="time_switch">
+        <item>On</item>
+        <item>Off</item>
+    </string-array><string-array name="time_style">
+        <item>Y-M-D W  H:M:S</item>
+        <item>Y-M-D H:M:S</item>
+        <item>H:M:S</item>
+        <item>H:M</item>
+    </string-array><string-array name="time_location">
+        <item>Right Conor</item>
+        <item>Left Conor</item>
+    </string-array><string-array name="time_size">
+        <item>Small</item>
+        <item>Normal</item>
+        <item>Big</item>
+    </string-array><string-array name="time_color">
+        <item>Yellow</item>
+        <item>White</item>
+        <item>Black</item>
+        <item>Red</item>
+        <item>Blue</item>
+    </string-array><string-array name="ad_set_left_array">
+        <item>Switch</item>
+        <item>Number</item>
+        <item>Type</item>
+    </string-array><string-array name="ad_switch">
+        <item>Off</item>
+        <item>On</item>
+    </string-array><string-array name="ad_mode">
+        <item>On Hours</item>
+        <item>Half Hour</item>
+        <item>After 1 min</item>
+        <item>After 2 min</item>
+        <item>After 3 min</item>
+        <item>After 4 min</item>
+        <item>After 5 min</item>
+        <item>After 6 min</item>
+        <item>After 7 min</item>
+        <item>After 8 min</item>
+        <item>After 9 min</item>
+        <item>After 10 min</item>
+        <item>After 11 min</item>
+        <item>After 12 min</item>
+        <item>After 13 min</item>
+        <item>After 14 min</item>
+        <item>After 15 min</item>
+        <item>After 16 min</item>
+        <item>After 17 min</item>
+        <item>After 18 min</item>
+        <item>After 19 min</item>
+        <item>After 20 min</item>
+        <item>After 21 min</item>
+        <item>After 22 min</item>
+        <item>After 23 min</item>
+        <item>After 24 min</item>
+        <item>After 25 min</item>
+        <item>After 26 min</item>
+        <item>After 27 min</item>
+        <item>After 28 min</item>
+        <item>After 29 min</item>
+        <item>After 30 min</item>
+        <item>After 31 min</item>
+        <item>After 32 min</item>
+        <item>After 33 min</item>
+        <item>After 34 min</item>
+        <item>After 35 min</item>
+        <item>After 36 min</item>
+        <item>After 37 min</item>
+        <item>After 38 min</item>
+        <item>After 39 min</item>
+        <item>After 40 min</item>
+        <item>After 41 min</item>
+        <item>After 42 min</item>
+        <item>After 43 min</item>
+        <item>After 44 min</item>
+        <item>After 45 min</item>
+        <item>After 46 min</item>
+        <item>After 47 min</item>
+        <item>After 48 min</item>
+        <item>After 49 min</item>
+        <item>After 50 min</item>
+        <item>After 51 min</item>
+        <item>After 52 min</item>
+        <item>After 53 min</item>
+        <item>After 54 min</item>
+        <item>After 55 min</item>
+        <item>After 56 min</item>
+        <item>After 57 min</item>
+        <item>After 58 min</item>
+        <item>After 59 min</item>
+        <item>After 60 min</item>
+    </string-array></file><file path="F:\AdvertisingClient_xcd\app\src\main\res\values\colors.xml" qualifiers=""><color name="colorPrimary">#3F51B5</color><color name="colorPrimaryDark">#303F9F</color><color name="colorAccent">#FF4081</color><color name="colorPureBlack">#000000</color><color name="colorPureWhite">#ffffff</color><color name="leftFragmentBackColor">#FF614989</color><color name="rightFragmentBackColor">#FF393CE4</color></file><file path="F:\AdvertisingClient_xcd\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="setup_top_text_size">35dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="setup_list_item_textsize">36sp</dimen></file><file path="F:\AdvertisingClient_xcd\app\src\main\res\values\strings.xml" qualifiers=""><string name="firmware_version">FIRMWARE:</string><string name="soft_version">SOFTWARE:</string><string name="version">XPlayerV3.0</string><string name="land_window">Land</string><string name="port_window">Port</string><string name="menu_0">Basic</string><string name="menu_1">Caption</string><string name="menu_2">Function</string><string name="menu_3">Others</string><string name="adjust">Adjust</string><string name="move_up_down">Up\Down</string><string name="switch_menu">Switch Menu</string><string name="time_set">Setting</string><string name="auto_on_off">Setting</string><string name="image_play_time">5 Sec</string><string name="reset_menu">Reset</string><string name="ad_set">Setting</string><string name="remote_control">Setting</string><string name="file_manager">Manage</string><string name="brightness">50</string><string name="contrast">50</string><string name="saturation">50</string><string name="id">000000</string><string name="reset_system">Reset</string><string name="confirm_reset_menu">Are you sure to RESET the menu？</string><string name="confirm_reset_menu_yes">Yes</string><string name="confirm_reset_menu_no">No</string><string name="image_time_sec">Sec</string><string name="app_name">XPlayer</string><string name="menu_storage_text">Nand</string><string name="menu_sd_text">SD</string><string name="menu_usb_text">USB</string><string name="menu_setting_text">Setting</string><string name="unknown">Unknown</string><string name="storage_sum_size">Storage Size : %1$s</string><string name="storage_user_size">Storage Use : %1$s</string><string name="details_all_text">All</string><string name="details_video_text">Video</string><string name="details_image_text">picture</string><string name="details_music_text">Music</string><string name="default_time_pattern">HH : mm : ss</string><string name="year">Y</string><string name="month">M</string><string name="day">D</string><string name="hour">H</string><string name="save_datetime">Save DateTime</string><string name="setting_universal_text">Basic Setup</string><string name="setting_date_text">Date Setup</string><string name="setting_subtitles_text">Subtitles Setup</string><string name="setting_customization_text">Subtitles Setup</string><string name="setting_image_text">Subtitles Setup</string><string name="no_media_file">Not Found Any Media File!</string><string name="no_ad_media_file">Not Found Any AD Media File!</string><string name="ad_play_start">"AD Play Start!"</string><string name="ad_play_finish">"AD Play Finished!"</string><string name="start_play_with_first_one">"Start Play Ad With First One!"</string><string name="no_setting_file">Not Found Setting.xml File!</string><string name="no_playlist_file">No media file for play in current time !</string><string name="switch_next_group">Switching Next Group...</string><string name="switch_next_playlist">"Switch Next Playlist..."</string><string name="back_key_again">"Are you sure to exit？"</string><string name="text_basic_setup">"Basic Setup"</string><string name="text_custom_setup">"Custom Functions"</string><string name="text_others_setup">"Others Setup"</string><string name="media_title">Title</string><string name="media_date">Date</string><string name="media_music_name">Music</string><string name="media_music_singer">Artist</string><string name="media_unknown">Unknown</string><string name="key_pause">Pause</string><string name="key_play">Play</string><string name="key_next">Next</string><string name="key_pre">Previous</string><string name="key_fast_word">FastForword</string><string name="key_fast_back">FastBack</string><string name="save">Save</string><string name="txt_id">ID Setup：</string><string name="second">S</string><string name="minute">M</string><string name="time_inter">time interval</string><string name="hour_time">hour time</string><string name="set_time">No.</string><string name="save_time">Done</string><string name="set_system_time">Adjust</string><string name="ftp_address">Remote update address</string><string name="restore_defaults">RESTORE DEFAULTS</string><string name="restore_defaults_dialog_msg">Are you sure you want to restore default?</string><string name="restore_defaults_dialog_pos">Yes</string><string name="restore_defaults_dialog_neg">No</string><string name="restore_defaults_value"> Do you want to restore defaults?</string><string name="ftp_address_tv_hint">Please input the ftp address</string><string name="restore_default_success">Restore Default Success !</string><string name="ftp_address_comfire">update</string><string name="download_count">"Already Download Count:"</string><string name="download_filelength">"File Size:"</string><string name="donwload_notstart">"Download preparation..."</string><string name="download_suspend">"Download the suspension..."</string><string name="download_success">"Download success！"</string><string name="download_fail">"download failed！"</string><string name="download_file_exist">"This file has been downloaded."</string><string name="update_file">Update File</string><string name="found_file">Found </string><string name="found_file_update"> Files，Update Now ？ "</string><string name="update_now">Update Now</string><string name="update_cancel">Cancel</string><string name="determine">Determine</string><string name="cancel">Cancel</string><string name="update_message">download completed, updating the media databases!</string><string name="file"> file !</string><string name="remaining">Remain </string><string name="downloaded_success"> file downloaded.</string><string name="downloading_exit">Downloading file. Are you sure exit?</string><string name="no_download_file">No files download!</string><string name="copy_success">Copy finished !</string><string name="copies_remaining">Remain </string><string name="copy_sd">SD card inserted! Do not interrupt!</string><string name="copy_usb">USBHost inserted!  Do not interrupt!</string><string name="copy_exit">Are you sure exit?</string><string name="file_update_success">Copy completed! Updating media databases, please wait!</string><string name="total">A total of </string><string name="file_synchronized_copy"> files, will be synchronized copy!</string><string name="Copying">Copying</string><string name="external_storage">No media found In the </string><string name="no_folder"> ! Will exit copy!</string><string name="no_devices">Do not unplug the external equipment!</string><string name="title_activity_remote_control_main">RemoteControlMainActivity</string><string name="hello_world">Hello world!</string><string name="title_activity_remote_control_setting">RemoteControlSettingActivity</string><string name="title_activity_remote_control_reset">RemoteControlResetActivity</string><string name="title_activity_setup">SetupActivity</string><string name="input_id">Input ID</string><string name="remote_key_up">↑</string><string name="remote_key_down">↓</string><string name="remote_key_left">←</string><string name="remote_key_right">→</string><string name="input_password">Input password</string><string name="input_confirm">OK</string><string name="toast_try_again">WRONG, TRY AGAIN!</string><string name="toast_only_six">The length should be SIX！</string><string name="toast_delete_success">Cancel success！</string><string name="input_password_again">Input again</string><string name="toast_aready_setted">You have set the password.</string><string name="set_finish">Finish</string><string name="toast_set_success">Set password success！</string><string name="toast_unlock_success">Unlock success！</string><string name="next_step">Next</string><string name="input_old_password">Input previous password:</string><string name="unlock_success">Unlock success, it will lock automatically after ONE minute.</string><string name="wrong_password">WRONG, TRY AGAIN!</string><string name="reset_password">Reset Password</string><string name="set_password">Set Password</string><string name="heng">-</string><string name="mao">:</string><string name="power_delay_sec">Sec</string><string name="toast_select_week">You have chosen WEEKLY mode, please cancle your all weekly setting.</string><string name="toast_select_every">You have chosen EVERY DAY mode, please cancle your all EVERY DAY setting.</string><string name="power_on_time">On Time</string><string name="power_off_time">Off Time</string><string name="ad_video">play ad video:</string><string name="play_video">play video:</string><string name="ad_image">play ad image:</string><string name="play_image">play image:</string><string name="play_music">play music:</string><string name="confirm_reset_system">Are you sure to reset the system, it will wipe all your date. Please unmount the SD card or USB storage if necessary!</string></file><file path="F:\AdvertisingClient_xcd\app\src\main\res\values\styles.xml" qualifiers=""><style name="TextViewName">
+        <item name="android:textSize">30.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+    </style><style name="TextViewNameMessage">
+        <item name="android:textSize">60.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+    </style><style name="TextViewStyle">
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+    </style><style name="AutoTextViewStyle">
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:clickable">true</item>
+    </style><style name="CustTextView">
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:clickable">true</item>
+    </style><style name="SetupCustTextView">
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:drawablePadding">3dip</item>
+        <item name="android:paddingTop">15dip</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style></file><file path="F:\AdvertisingClient_xcd\app\src\main\res\values-zh-rCN\arrays.xml" qualifiers="zh-rCN"><string-array name="basic_set_array">
+        <item>语言设置</item>
+        <item>当前设备</item>
+        <item>拷贝模式</item>
+        <item>播放模式</item>
+        <item>时间设置</item>
+        <item>定时开关</item>
+        <item>视频比例</item>
+        <item>图片比例</item>
+        <item>图片转场</item>
+        <item>图片时间</item>
+        <item>恢复出厂</item>
+    </string-array><string-array name="caption_set_array">
+        <item>字幕开关</item>
+        <item>字幕大小</item>
+        <item>字幕颜色</item>
+        <item>背景颜色</item>
+        <item>滚动速度</item>
+	<item>显示位置</item>
+    </string-array><string-array name="function_set_array">
+        <item>屏幕旋转</item>
+        <item>分屏模式</item>
+        <item>广告插播</item>
+        <item>背景音乐</item>
+        <item>台标显示</item>
+        <item>遥控加密</item>
+        <item>同步播放</item>
+        <item>音频输出</item>
+        <item>播放加密</item>
+        <item>自动转屏</item>
+	<item>人体感应</item>
+    </string-array><string-array name="other_set_array">
+        <item>开机启动</item>
+        <item>文件管理</item>
+        <item>屏幕亮度</item>
+        <item>对  比  度</item>
+        <item>饱  和  度</item>
+	    <item>媒体音量</item>
+        <item>设备编号</item>
+	    <item>延时开机</item>
+        <item>软件版本</item>
+        <item>系统重置</item>
+    </string-array><string-array name="power_delay_time_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+        <item>150</item>
+        <item>180</item>
+        <item>300</item>
+    </string-array><string-array name="time_set_left_array">
+        <item>时间开关</item>
+        <item>调整时间</item>
+        <item>时间格式</item>
+        <item>时间位置</item>
+        <item>时间大小</item>
+        <item>时间颜色</item>
+    </string-array><string-array name="time_switch">
+        <item>开</item>
+        <item>关</item>
+    </string-array><string-array name="time_style">
+        <item>年-月-日 星期  时:分:秒</item>
+        <item>年-月-日 时:分:秒</item>
+        <item>时:分:秒</item>
+        <item>时:分</item>
+    </string-array><string-array name="time_location">
+        <item>右上角</item>
+        <item>左上角</item>
+    </string-array><string-array name="time_size">
+        <item>小</item>
+        <item>中</item>
+        <item>大</item>
+    </string-array><string-array name="time_color">
+        <item>黄色</item>
+        <item>白色</item>
+        <item>黑色</item>
+        <item>红色</item>
+        <item>蓝色</item>
+    </string-array><string-array name="ad_set_left_array">
+        <item>开关</item>
+        <item>插播数量</item>
+        <item>插播类型</item>
+    </string-array><string-array name="ad_switch">
+        <item>关</item>
+        <item>开</item>
+    </string-array><string-array name="ad_mode">
+        <item>整点</item>
+        <item>半点</item>
+        <item>间隔1分钟</item>
+        <item>间隔2分钟</item>
+        <item>间隔3分钟</item>
+        <item>间隔4分钟</item>
+        <item>间隔5分钟</item>
+        <item>间隔6分钟</item>
+        <item>间隔7分钟</item>
+        <item>间隔8分钟</item>
+        <item>间隔9分钟</item>
+        <item>间隔10分钟</item>
+        <item>间隔11分钟</item>
+        <item>间隔12分钟</item>
+        <item>间隔13分钟</item>
+        <item>间隔14分钟</item>
+        <item>间隔15分钟</item>
+        <item>间隔16分钟</item>
+        <item>间隔17分钟</item>
+        <item>间隔18分钟</item>
+        <item>间隔19分钟</item>
+        <item>间隔20分钟</item>
+        <item>间隔21分钟</item>
+        <item>间隔22分钟</item>
+        <item>间隔23分钟</item>
+        <item>间隔24分钟</item>
+        <item>间隔25分钟</item>
+        <item>间隔26分钟</item>
+        <item>间隔27分钟</item>
+        <item>间隔28分钟</item>
+        <item>间隔29分钟</item>
+        <item>间隔30分钟</item>
+        <item>间隔31分钟</item>
+        <item>间隔32分钟</item>
+        <item>间隔33分钟</item>
+        <item>间隔34分钟</item>
+        <item>间隔35分钟</item>
+        <item>间隔36分钟</item>
+        <item>间隔37分钟</item>
+        <item>间隔38分钟</item>
+        <item>间隔39分钟</item>
+        <item>间隔40分钟</item>
+        <item>间隔41分钟</item>
+        <item>间隔42分钟</item>
+        <item>间隔43分钟</item>
+        <item>间隔44分钟</item>
+        <item>间隔45分钟</item>
+        <item>间隔46分钟</item>
+        <item>间隔47分钟</item>
+        <item>间隔48分钟</item>
+        <item>间隔49分钟</item>
+        <item>间隔50分钟</item>
+        <item>间隔51分钟</item>
+        <item>间隔52分钟</item>
+        <item>间隔53分钟</item>
+        <item>间隔54分钟</item>
+        <item>间隔55分钟</item>
+        <item>间隔56分钟</item>
+        <item>间隔57分钟</item>
+        <item>间隔58分钟</item>
+        <item>间隔59分钟</item>
+        <item>间隔60分钟</item>
+    </string-array><string-array name="language">
+        <item>中文</item>
+        <item>English</item>
+    </string-array><string-array name="priority_mode">
+        <item>内置存储</item>
+        <item>SD卡</item>
+        <item>USB设备</item>
+    </string-array><string-array name="copy_mode">
+        <item>全删全拷</item>
+        <item>追加拷贝</item>
+    </string-array><string-array name="repeat_mode">
+        <item>目录循环</item>
+        <item>单曲播放</item>
+    </string-array><string-array name="video_mode">
+        <item>全屏</item>
+        <item>原始比例</item>
+    </string-array><string-array name="image_mode">
+        <item>全屏</item>
+        <item>原始比例</item>
+    </string-array><string-array name="image_transition">
+        <item>关闭</item>
+        <item>随机</item>
+        <item>手风琴</item>
+        <item>右侧淡入</item>
+        <item>立方体淡入</item>
+        <item>立方体淡出</item>
+        <item>从里淡入</item>
+        <item>水平翻转</item>
+        <item>垂直翻转</item>
+        <item>右侧淡出</item>
+        <item>旋转淡出</item>
+        <item>旋转淡入</item>
+        <item>向左滑出</item>
+        <item>淡入淡出</item>
+        <item>缩放进入</item>
+        <item>缩放滑动退出</item>
+        <item>缩放退出</item>
+    </string-array><string-array name="caption_switch">
+        <item>打开</item>
+        <item>关闭</item>
+    </string-array><string-array name="caption_size">
+        <item>小</item>
+        <item>中</item>
+        <item>大</item>
+    </string-array><string-array name="caption_color">
+        <item>黄色</item>
+        <item>白色</item>
+        <item>黑色</item>
+        <item>红色</item>
+        <item>蓝色</item>
+    </string-array><string-array name="caption_background_color">
+        <item>透明</item>
+        <item>黄色</item>
+        <item>白色</item>
+        <item>黑色</item>
+        <item>红色</item>
+        <item>蓝色</item>
+    </string-array><string-array name="rolling_speed">
+        <item>慢速</item>
+        <item>正常</item>
+        <item>快速</item>
+    </string-array><string-array name="caption_location">
+        <item>底部</item>
+        <item>顶部</item>
+    </string-array><string-array name="screen_rotation">
+        <item>0度</item>
+        <item>90度</item>
+        <item>180度</item>
+        <item>270度</item>
+    </string-array><string-array name="window_mode">
+        <item>关闭</item>
+        <item>自由模式</item>
+        <item>模式一</item>
+        <item>模式二</item>
+        <item>模式三</item>
+        <item>模式四</item>
+        <item>模式五</item>
+        <item>模式六</item>
+        <item>模式七</item>
+    </string-array><string-array name="background_music">
+        <item>关闭</item>
+        <item>打开</item>
+    </string-array><string-array name="logo_setting">
+        <item>关闭</item>
+        <item>左上角</item>
+        <item>右上角</item>
+        <item>左下角</item>
+        <item>右下角</item>
+    </string-array><string-array name="serial_port">
+        <item>关闭</item>
+        <item>主机模式</item>
+        <item>从机模式</item>
+    </string-array><string-array name="audio_out_mode">
+        <item>Codec</item>
+        <item>HDMI</item>
+        <item>Codec和HDMI</item>
+    </string-array><string-array name="play_encode">
+        <item>关闭</item>
+        <item>打开</item>
+    </string-array><string-array name="auto_rotation_screen">
+        <item>关闭</item>
+        <item>打开</item>
+    </string-array><string-array name="sensor_switch">
+        <item>关闭</item>
+        <item>静音</item>
+        <item>暂停播放</item>
+        <item>待机</item>
+    </string-array><string-array name="boot">
+        <item>启动</item>
+        <item>关闭</item>
+    </string-array></file><file path="F:\AdvertisingClient_xcd\app\src\main\res\values-zh-rCN\dimens.xml" qualifiers="zh-rCN"><dimen name="setup_top_text_size">35dp</dimen><dimen name="setup_list_item_textsize">36sp</dimen></file><file path="F:\AdvertisingClient_xcd\app\src\main\res\values-zh-rCN\strings.xml" qualifiers="zh-rCN"><string name="firmware_version">固件版本:</string><string name="soft_version">软件版本:</string><string name="version">XPlayer V3.0</string><string name="land_window">横屏</string><string name="port_window">竖屏</string><string name="menu_0">基本设定</string><string name="menu_1">字幕设定</string><string name="menu_2">功能设定</string><string name="menu_3">其他设定</string><string name="adjust">调整</string><string name="move_up_down">上移下移</string><string name="switch_menu">切换菜单</string><string name="time_set">设置</string><string name="auto_on_off">设置</string><string name="image_play_time">5秒</string><string name="reset_menu">恢复</string><string name="ad_set">设置</string><string name="remote_control">设置</string><string name="file_manager">管理</string><string name="brightness">50</string><string name="contrast">50</string><string name="saturation">50</string><string name="id">000000</string><string name="reset_system">重置</string><string name="confirm_reset_menu">确定要重置菜单吗？</string><string name="confirm_reset_menu_yes">确认</string><string name="confirm_reset_menu_no">取消</string><string name="image_time_sec">秒</string><string name="app_name">XPlayer</string><string name="menu_storage_text">内部存储器</string><string name="menu_sd_text">SD存储器</string><string name="menu_usb_text">USB存储器</string><string name="menu_setting_text">设置</string><string name="unknown">未知</string><string name="storage_sum_size">总大小 : %1$s</string><string name="storage_user_size">已使用 : %1$s</string><string name="details_all_text">全部</string><string name="details_video_text">视频</string><string name="details_image_text">图片</string><string name="details_music_text">音乐</string><string name="year">年</string><string name="month">月</string><string name="day">日</string><string name="save_datetime">保存时间更改</string><string name="input_id">请输入ID号</string><string name="no_media_file">"没有找到任何媒体文件！"</string><string name="no_ad_media_file">"没有找到插播内容！"</string><string name="ad_play_start">"插播开始！"</string><string name="ad_play_finish">"插播结束！"</string><string name="start_play_with_first_one">"插播内容列表有更新，将从第一个文件开始插播！"</string><string name="no_setting_file">"没有找到 Setting.xml 设置文件！"</string><string name="no_playlist_file">"当前节目和屏幕方向不匹配，或当前时间无节目。"</string><string name="no_playlist_file_curren_time">"当前时间段内无节目"</string><string name="switch_next_group">"正在切换到下一个设置组..."</string><string name="switch_next_playlist">"正在切换到下一个播放列表..."</string><string name="back_key_again">"你确定退出程序？"</string><string name="text_basic_setup">"通用设置"</string><string name="text_custom_setup">"定制功能"</string><string name="text_others_setup">"其他设置"</string><string name="save">"保存"</string><string name="txt_id">ID号设置：</string><string name="media_title">"名称"</string><string name="media_date">"日期"</string><string name="media_music_name">"歌曲"</string><string name="media_music_singer">"歌手"</string><string name="media_unknown">"未知"</string><string name="key_pause">"暂 停"</string><string name="key_play">"播 放"</string><string name="key_next">"下一曲"</string><string name="key_pre">"上一曲"</string><string name="key_fast_word">"快 进"</string><string name="key_fast_back">"快 退"</string><string name="second">秒</string><string name="minute">分</string><string name="hour">时</string><string name="save_time">确认</string><string name="set_system_time">调整</string><string name="time_inter">图片播放时间</string><string name="hour_time">整点</string><string name="set_time">定点</string><string name="ftp_address">"远程更新地址:"</string><string name="restore_defaults">"恢复默认设置"</string><string name="restore_defaults_dialog_msg">"确定要恢复到默认设置吗？"</string><string name="restore_defaults_dialog_pos">"确定"</string><string name="restore_defaults_dialog_neg">"取消"</string><string name="restore_defaults_value"> 是否恢复出厂设置？</string><string name="ftp_address_tv_hint">请输入FTP地址</string><string name="restore_default_success">恢复出厂设置成功 !</string><string name="ftp_address_comfire">更新</string><string name="download_count">"已下载:"</string><string name="download_filelength">"文件大小:"</string><string name="donwload_notstart">"下载就绪..."</string><string name="download_success">"下载成功！"</string><string name="download_fail">"下载失败"</string><string name="update_file">"文件更新"</string><string name="found_file">"共有 "</string><string name="found_file_update">" 个更新文件，是否需要更新？ "</string><string name="update_now">"现在更新"</string><string name="update_cancel">"取消更新"</string><string name="determine">"确定"</string><string name="cancel">"取消"</string><string name="update_message">下载全部完成，正在更新媒体库！</string><string name="file">个文件</string><string name="remaining">正在下载剩余的 :</string><string name="downloaded_success"> 已下载完成。</string><string name="downloading_exit">正在下载文件! 确认退出下载?</string><string name="no_download_file">没有下载的媒体文件！</string><string name="copy_success">已拷贝完成 。</string><string name="copies_remaining">正在拷贝剩余的</string><string name="file_update_success">拷贝全部完成！正在更新媒体库，请稍后！</string><string name="copy_sd">SD卡被拔出！强制中断拷贝！</string><string name="copy_usb">U盘被拔出！强制中断拷贝！</string><string name="copy_exit">正在拷贝文件! 确认退出？</string><string name="total">共检索到：</string><string name="file_synchronized_copy"> 个文件，将同步进行拷贝！</string><string name="Copying">正在拷贝</string><string name="external_storage">在外部存储: </string><string name="no_folder"> 文件夹中没有找到视频文件！将退出拷贝！</string><string name="no_devices">外部存储设备插入，拷贝过程中请勿拔掉外部设备！</string><string name="remote_key_up">上</string><string name="remote_key_down">下</string><string name="remote_key_left">左</string><string name="remote_key_right">右</string><string name="input_password">请输入密码</string><string name="input_confirm">确认</string><string name="toast_try_again">密码错误，请再次输入！</string><string name="toast_only_six">密码长度为6位！</string><string name="toast_delete_success">取消密码成功！</string><string name="input_password_again">请再次输入密码:</string><string name="toast_aready_setted">您已经设置过密码了，请退出设置！</string><string name="set_finish">设置完成</string><string name="toast_set_success">设置密码成功！</string><string name="toast_unlock_success">设置密码成功！</string><string name="next_step">下一步</string><string name="input_old_password">请输入旧密码:</string><string name="unlock_success">解锁成功，1分钟后将会自动锁定遥控功能。</string><string name="wrong_password">密码错误，请再次输入！</string><string name="reset_password">重置密码</string><string name="set_password">设置密码</string><string name="heng">-</string><string name="mao">:</string><string name="power_delay_sec">秒</string><string name="toast_select_week">您已选择星期模式，请先取消。</string><string name="toast_select_every">您已选择每天模式，请先取消。</string><string name="toast_more_than_five_minutes">开关机时间间隔要大于5分钟，请修改。</string><string name="can_not_between_other_groups">设置的今天不同组的开关机时间段有重叠，请修改。</string><string name="two_minutes_later_start">两分钟后进入关机流程。</string><string name="power_on_time">开机时间</string><string name="power_off_time">关机时间</string><string name="ad_video">插播视频:</string><string name="play_video">播放视频:</string><string name="ad_image">插播图片:</string><string name="play_image">播放图片:</string><string name="play_music">播放音乐:</string><string name="confirm_reset_system">确认是否重置系统，重置前请拔下SD卡或者U盘，以免个人数据被删除！</string></file></source><source path="F:\AdvertisingClient_xcd\app\build\generated\res\rs\debug"/><source path="F:\AdvertisingClient_xcd\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="F:\AdvertisingClient_xcd\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="F:\AdvertisingClient_xcd\app\src\debug\res"/></dataSet><mergedItems/></merger>

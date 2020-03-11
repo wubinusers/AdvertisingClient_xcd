@@ -1,0 +1,48 @@
+apply plugin: 'com.android.application'
+
+android {
+aaptOptions.cruncherEnabled = false;
+aaptOptions.useNewCruncher = false
+    compileSdkVersion 22
+    buildToolsVersion "29.0.2"
+
+    defaultConfig {
+        applicationId "com.worldchip.advertisingclient"
+        minSdkVersion 17
+        targetSdkVersion 25
+
+        ndk {
+            moduleName "libserial_port"
+        }
+    }
+
+    //以下是为了找到android.os.SystemProperties这个隐藏的类
+    String SDK_DIR = System.getenv("ANDROID_SDK_HOME")
+    //Log.d("TAG", "SDK_DIR = " + SDK_DIR );
+    if(SDK_DIR == null) {
+        Properties props = new Properties()
+        props.load(new FileInputStream(project.rootProject.file("local.properties")))
+        SDK_DIR = props.get('sdk.dir');
+    }
+    dependencies {
+        compileOnly  files("${SDK_DIR}/platforms/android-25/data/layoutlib.jar")
+    }
+dexOptions{
+
+    javaMaxHeapSize "4g"
+
+}
+
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    implementation 'com.android.support:support-v4:18.+'
+    implementation files('libs/libGoogleAnalyticsServices.jar')
+}

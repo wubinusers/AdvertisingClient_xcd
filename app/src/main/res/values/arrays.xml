@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="basic_set_array">
+        <item>Language</item>
+        <item>Play Device</item>
+        <item>Copy Mode</item>
+        <item>Play Mode</item>
+        <item>Time Setting</item>
+        <item>Fixed Timing</item>
+        <item>Video Aspect</item>
+        <item>Image Aspect</item>
+        <item>Photo Effects</item>
+        <item>Photo Slider Time</item>
+        <item>Reset Menu</item>
+    </string-array>
+
+    <string-array name="caption_set_array">
+        <item>Switch</item>
+        <item>Size</item>
+        <item>Color</item>
+        <item>Background Color</item>
+        <item>Speed</item>
+	<item>Location</item>
+    </string-array>
+
+    <string-array name="function_set_array">
+        <item>Rotate Screen</item>
+        <item>Split Screen</item>
+        <item>Ad Play</item>
+        <item>Background Music</item>
+        <item>Show Logo</item>
+        <item>Lock</item>
+        <item>Same Pace</item>
+        <item>Audio Out Mode</item>
+        <item>Play Encode File</item>
+        <item>Auto Rotation Screen</item>
+	<item>Sensor Switch</item>
+    </string-array>
+
+    <string-array name="other_set_array">
+        <item>Boot</item>
+        <item>File Manager</item>
+        <item>Brightness</item>
+        <item>Contrast</item>
+        <item>Saturation</item>
+	<item>Change Volume</item>
+        <item>Set ID</item>
+	<item>Power Delay</item>
+        <item>Version</item>
+        <item>Reset System</item>
+    </string-array>
+    
+     <string-array name="power_delay_time_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+        <item>150</item>
+        <item>180</item>
+        <item>300</item>
+    </string-array>
+
+    <!-- 第一组菜单 -->
+    <string-array name="language">
+        <item>中文</item>
+        <item>English</item>
+    </string-array>
+
+    <string-array name="priority_mode">
+        <item>Nand</item>
+        <item>SD</item>
+        <item>USB</item>
+    </string-array>
+
+    <string-array name="copy_mode">
+        <item>Format</item>
+        <item>Add</item>
+    </string-array>
+
+    <string-array name="repeat_mode">
+        <item>List Cycle</item>
+        <item>REPEAT</item>
+    </string-array>
+
+    <string-array name="video_mode">
+        <item>Full Screen</item>
+        <item>Fit</item>
+    </string-array>
+
+    <string-array name="image_mode">
+        <item>Full Screen</item>
+        <item>Fit</item>
+    </string-array>
+
+    <string-array name="image_transition">
+        <item>Off</item>
+        <item>Random</item>
+        <item>Accordion Transformer</item>
+        <item>Background To Foreground</item>
+        <item>Cube In Transformer</item>
+        <item>Cube Out Transformer</item>
+        <item>Depth Page Transformer</item>
+        <item>Flip Horizontal</item>
+        <item>Flip Vertical</item>
+        <item>Foreground To Background</item>
+        <item>RotateDown Transformer</item>
+        <item>RotateUp Transformer</item>
+        <item>Stack Transformer</item>
+        <item>Tablet Transformer</item>
+        <item>Zoom In Transformer</item>
+        <item>Zoom Out Slide Transformer</item>
+        <item>Zoom Out Transformer</item>
+    </string-array>
+
+    <!--少一个图片播放时间-->
+
+    <!--第二组菜单-->
+    <string-array name="caption_switch">
+        <item>On</item>
+        <item>Off</item>
+    </string-array>
+
+    <string-array name="caption_size">
+        <item>Small</item>
+        <item>Normal</item>
+        <item>Big</item>
+    </string-array>
+
+    <string-array name="caption_color">
+        <item>Yellow</item>
+        <item>White</item>
+        <item>Black</item>
+        <item>Red</item>
+        <item>Blue</item>
+    </string-array>
+
+    <string-array name="caption_background_color">
+        <item>Transparent</item>
+        <item>Yellow</item>
+        <item>White</item>
+        <item>Black</item>
+        <item>Red</item>
+        <item>Blue</item>
+    </string-array>
+
+    <string-array name="rolling_speed">
+        <item>Slow</item>
+        <item>Normal</item>
+        <item>Fast</item>
+    </string-array>
+    
+    <string-array name="caption_location">
+        <item>Bottom</item>
+        <item>Top</item>
+    </string-array>
+
+    <!--第三组菜单-->
+    <string-array name="screen_rotation">
+        <item>0 degree</item>
+        <item>90 degrees</item>
+        <item>180 degrees</item>
+        <item>270 degrees</item>
+    </string-array>
+
+    <string-array name="window_mode">
+        <item>Off</item>
+        <item>Free</item>
+        <item>Model 1</item>
+        <item>Model 2</item>
+        <item>Model 3</item>
+        <item>Model 4</item>
+        <item>Model 5</item>
+        <item>Model 6</item>
+        <item>Model 7</item>
+    </string-array>
+
+    <string-array name="background_music">
+        <item>Off</item>
+        <item>On</item>
+    </string-array>
+
+    <string-array name="logo_setting">
+        <item>Close</item>
+        <item>Top-Left Corner</item>
+        <item>Top-Right Corner</item>
+        <item>Bottom-Left Corner</item>
+        <item>Bottom-Left Corner</item>
+    </string-array>
+
+    <string-array name="serial_port">
+        <item>Off</item>
+        <item>Main</item>
+        <item>Follow</item>
+    </string-array>
+
+    <string-array name="audio_out_mode">
+        <item>Codec</item>
+        <item>HDMI</item>
+        <item>Codec and HDMI</item>
+    </string-array>
+    
+    <string-array name="play_encode">
+        <item>Off</item>
+        <item>On</item>
+    </string-array>
+    
+    <string-array name="auto_rotation_screen">
+        <item>Off</item>
+        <item>On</item>
+    </string-array>
+    
+    <string-array name="sensor_switch">
+        <item>Off</item>
+        <item>Mute</item>
+        <item>Pause</item>
+        <item>Screen Off</item>
+    </string-array>
+
+    <!--第四组菜单-->
+    <string-array name="boot">
+        <item>On</item>
+        <item>Off</item>
+    </string-array>
+
+    <!--亮度、对比度、饱和度、ID、软件版本号没有列出来-->
+    
+    
+      <string-array name="time_set_left_array">
+        <item>Switch</item>
+        <item>Adjust</item>
+        <item>Style</item>
+        <item>Location</item>
+        <item>Size</item>
+        <item>Color</item>
+    </string-array>
+
+    <string-array name="time_switch">
+        <item>On</item>
+        <item>Off</item>
+    </string-array>
+
+    <string-array name="time_style">
+        <item>Y-M-D W  H:M:S</item>
+        <item>Y-M-D H:M:S</item>
+        <item>H:M:S</item>
+        <item>H:M</item>
+    </string-array>
+
+    <string-array name="time_location">
+        <item>Right Conor</item>
+        <item>Left Conor</item>
+    </string-array>
+
+    <string-array name="time_size">
+        <item>Small</item>
+        <item>Normal</item>
+        <item>Big</item>
+    </string-array>
+
+    <string-array name="time_color">
+        <item>Yellow</item>
+        <item>White</item>
+        <item>Black</item>
+        <item>Red</item>
+        <item>Blue</item>
+    </string-array>
+    
+    <string-array name="ad_set_left_array">
+        <item>Switch</item>
+        <item>Number</item>
+        <item>Type</item>
+    </string-array>
+
+    <string-array name="ad_switch">
+        <item>Off</item>
+        <item>On</item>
+    </string-array>
+
+    <string-array name="ad_mode">
+        <item>On Hours</item>
+        <item>Half Hour</item>
+        <item>After 1 min</item>
+        <item>After 2 min</item>
+        <item>After 3 min</item>
+        <item>After 4 min</item>
+        <item>After 5 min</item>
+        <item>After 6 min</item>
+        <item>After 7 min</item>
+        <item>After 8 min</item>
+        <item>After 9 min</item>
+        <item>After 10 min</item>
+        <item>After 11 min</item>
+        <item>After 12 min</item>
+        <item>After 13 min</item>
+        <item>After 14 min</item>
+        <item>After 15 min</item>
+        <item>After 16 min</item>
+        <item>After 17 min</item>
+        <item>After 18 min</item>
+        <item>After 19 min</item>
+        <item>After 20 min</item>
+        <item>After 21 min</item>
+        <item>After 22 min</item>
+        <item>After 23 min</item>
+        <item>After 24 min</item>
+        <item>After 25 min</item>
+        <item>After 26 min</item>
+        <item>After 27 min</item>
+        <item>After 28 min</item>
+        <item>After 29 min</item>
+        <item>After 30 min</item>
+        <item>After 31 min</item>
+        <item>After 32 min</item>
+        <item>After 33 min</item>
+        <item>After 34 min</item>
+        <item>After 35 min</item>
+        <item>After 36 min</item>
+        <item>After 37 min</item>
+        <item>After 38 min</item>
+        <item>After 39 min</item>
+        <item>After 40 min</item>
+        <item>After 41 min</item>
+        <item>After 42 min</item>
+        <item>After 43 min</item>
+        <item>After 44 min</item>
+        <item>After 45 min</item>
+        <item>After 46 min</item>
+        <item>After 47 min</item>
+        <item>After 48 min</item>
+        <item>After 49 min</item>
+        <item>After 50 min</item>
+        <item>After 51 min</item>
+        <item>After 52 min</item>
+        <item>After 53 min</item>
+        <item>After 54 min</item>
+        <item>After 55 min</item>
+        <item>After 56 min</item>
+        <item>After 57 min</item>
+        <item>After 58 min</item>
+        <item>After 59 min</item>
+        <item>After 60 min</item>
+    </string-array>
+    
+</resources>

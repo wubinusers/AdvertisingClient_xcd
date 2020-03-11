@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Playlist>
+  <List start="00:00:00" end="23:59:59">
+    <Program type="P+V">
+      <Media type="P" x="8" y="8" w="1066" h="566">
+        <Clip>-1</Clip>
+      </Media>
+      <Media type="P" x="8" y="1227" w="1066" h="550">
+        <Clip>-1</Clip>
+      </Media>
+      <Media type="V" x="8" y="580" w="1066" h="640">
+        <Clip>-1</Clip>
+      </Media>
+    </Program>
+  </List>
+</Playlist>

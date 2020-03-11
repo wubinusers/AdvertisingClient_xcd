@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Setting>
+	<System>
+		<Date year="2011" month="1" day="1"/>
+		<Time hour="12"  min="0" sec="0" />
+		<Vol>10</Vol>
+		<Angle>90</Angle>
+	</System>
+	<Caption fgcolor="#CD0000" bgcolor="#E0FFFF" size="80" speed="Normal" />
+	
+	<PowerDayTime group="5">	
+		<Group On="00:01" Off="20:00"/>
+		<Group On="20:00" Off="23:00"/>
+	</PowerDayTime>
+
+	<PowerWeekTime>
+		<MON group="4">
+			<Group On="08:00" Off="09:00"/>
+			<Group On="11:00" Off="12:00"/>
+			<Group On="13:00" Off="14:00"/>
+			<Group On="15:00" Off="16:00"/>
+		</MON>
+
+		<TUE group="3">
+			<Group On="08:00" Off="09:00"/>
+			<Group On="09:00" Off="10:00"/>
+			<Group On="11:00" Off="12:00"/>
+		</TUE>
+
+	</PowerWeekTime>
+	<Weather>http://ww.google.com/weather/...</Weather>
+</Setting>

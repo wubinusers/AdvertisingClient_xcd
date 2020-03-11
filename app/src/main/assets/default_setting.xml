@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+    <menu id="0" name="通用设置">
+        <sub_menu id="0" key="language" name="菜单语言" value="0"></sub_menu>
+        <sub_menu id="1" key="repeat_mode" name="播放模式" value="0"></sub_menu>
+        <sub_menu id="2" key="log_file" name="播放记录" value="1"></sub_menu>
+        <sub_menu id="3" key="priority_mode" name="当前播放设备" value="0"></sub_menu>
+        <sub_menu id="4" key="copy_mode" name="拷贝模式" value="0"></sub_menu>
+        
+        <sub_menu id="6" key="caption_switch" name="字幕开关" value="0"></sub_menu>
+        <sub_menu id="7" key="size" name="字体大小" value="1"></sub_menu>
+        <sub_menu id="8" key="foreground_color" name="字体颜色" value="2"></sub_menu>
+        <sub_menu id="9" key="background_color" name="背景颜色" value="2"></sub_menu>
+        <sub_menu id="10" key="rolling_speed" name="滚动速度" value="1"></sub_menu>
+    </menu> 
+    <menu id="1" name="定制功能">
+        <sub_menu id="0" key="background_music" name="背景音乐" value="1"></sub_menu>
+        <sub_menu id="1" key="image_transition" name="图片切换效果" value="0"></sub_menu>
+        <sub_menu id="2" key="time_interval" name="图片播放时间" value="5"></sub_menu>
+        <sub_menu id="3" key="image_mode" name="图片缩放" value="0"></sub_menu>
+        <sub_menu id="4" key="video_mode" name="视频缩放" value="1"></sub_menu>
+        <sub_menu id="5" key="window_mode" name="分屏模式" value="0"></sub_menu>
+        <sub_menu id="6" key="plug_play" name="广告插播" value="1"></sub_menu>
+        <sub_menu id="7" key="play_mode" name="插播类型" value="1"></sub_menu>
+        <sub_menu id="8" key="number" name="插播数量" value="2"></sub_menu>
+        <sub_menu id="9" key="logo_position" name="台标显示" value="1"></sub_menu>
+        <sub_menu id="10" key="codec" name="音频输出" value="0"></sub_menu>
+       
+    </menu> 
+    <menu id="2" name="其他设置">
+        <sub_menu id="0" key="time" name="时钟显示" value="0"></sub_menu>
+        <sub_menu id="1" key="time_setup" name="时钟设置" value="0"></sub_menu> 
+        <sub_menu id="2" key="time_style" name="时钟格式" value="2"></sub_menu>
+        <sub_menu id="3" key="time_location" name="时钟位置" value="1"></sub_menu>
+        <sub_menu id="4" key="time_size" name="时钟大小" value="1"></sub_menu>
+        <sub_menu id="5" key="time_color" name="时钟颜色" value="1"></sub_menu>
+        <sub_menu id="6" key="screen_rotation" name="旋转屏幕" value="0"></sub_menu>
+        <sub_menu id="7" key="file_manager" name="文件管理" value="0"></sub_menu>
+        <sub_menu id="8" key="boot_protect" name="开机启动" value="0"></sub_menu>
+        <!-- 新加的串口同步菜单 -->
+        <sub_menu id="9" key="serial_port" name="串口同步播放" value="0"></sub_menu>
+        <sub_menu id="10" key="system_operate" name="定时开关机" value="0"></sub_menu>
+        <sub_menu id="11" key="light_setup" name="屏幕显示设置" value="0"></sub_menu>
+        <sub_menu id="12" key="id_setup" name="本机ID设置" value="0"></sub_menu>
+        <sub_menu id="13" key="remote_control_lock" name="遥控锁" value="0"></sub_menu>
+        <sub_menu id="14" key="logcat" name="播放日志" value="1"></sub_menu>
+        <sub_menu id="15" key="reset" name="恢复出厂设置" value="1"></sub_menu>
+        <sub_menu id="16" key="version" name="软件版本号" value="0"></sub_menu>
+    </menu> 
+    
+    <!--  
+    <menu id="1" name="日期设定">
+        <sub_menu id="0" name="时钟设置" value="0"></sub_menu>
+        <sub_menu id="1" name="时钟显示格式" value="0"></sub_menu>
+        <sub_menu id="2" name="时钟字体颜色" value="0"></sub_menu>
+        <sub_menu id="3" name="断点记忆" value="0"></sub_menu>
+        <sub_menu id="4" name="时钟位置" value="0"></sub_menu>
+        <sub_menu id="5" name="定时开关机模式" value="0"></sub_menu>
+        <sub_menu id="6" name="定时时间段" value="0"></sub_menu>
+    </menu>
+    <menu id="2" name="字母设定">
+        <sub_menu id="0" name="字母开关" value="0"></sub_menu>
+        <sub_menu id="1" name="字体大小" value="0"></sub_menu>
+        <sub_menu id="2" name="字体颜色" value="0"></sub_menu>
+        <sub_menu id="3" name="背景颜色" value="0"></sub_menu>
+        <sub_menu id="4" name="滚动速度" value="0"></sub_menu>
+        <sub_menu id="5" name="显示位置" value="0"></sub_menu>
+    </menu>
+    <menu id="3" name="定制功能">
+        <sub_menu id="0" name="背景音乐" value="0"></sub_menu>
+        <sub_menu id="1" name="播放列表" value="0"></sub_menu>
+        <sub_menu id="2" name="图片专场效果" value="0"></sub_menu>
+        <sub_menu id="3" name="图片播放间隔时间" value="0"></sub_menu>
+        <sub_menu id="4" name="分屏模式" value="0"></sub_menu>
+        <sub_menu id="5" name="广告插播" value="0"></sub_menu>
+        <sub_menu id="6" name="插播类型" value="0"></sub_menu>
+    </menu>
+    <menu id="4" name="图像设定">
+        <sub_menu id="0" name="屏幕旋转 " value="0"></sub_menu>
+        <sub_menu id="1" name="亮度" value="0"></sub_menu>
+        <sub_menu id="2" name="对比度" value="0"></sub_menu>
+        <sub_menu id="3" name="饱和度" value="0"></sub_menu>
+        <sub_menu id="4" name="字体大小" value="0"></sub_menu>
+    </menu>
+    
+    -->
+</settings>
